@@ -1,0 +1,301 @@
+/*--------------------------*/
+
+/*		Home Page Swiss     */
+
+/*--------------------------*/
+
+.cover_home_page {
+	background-image: url('../img/background/home_backgorund_cover-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 760px;
+	padding-top: 200px;
+	color: white;
+	text-align: center;
+  background-attachment: fixed;
+}
+.cover_home_page h1{
+	font-size: 67px;
+}
+.cover_home_page span {
+	color: #CC0241;
+	font-family: 'Montserrat-Bold';
+}
+.cover_home_page p {
+	font-size: 20px;
+	color: #CCCCCC;
+}
+.cover_home_page button {
+	color: white;
+	font-family: 'Montserrat-Bold';
+	background-color: #CC0241;
+	width: 150px;
+	height: 35px;
+	border-radius: 4px;
+	border: none;
+	font-size: 12px;
+	margin-top: 20px;
+}
+
+/*
+** Logos Section OWL Style
+*/
+
+.first_slider_home {
+	padding: 50px 10px 0px; 
+
+}
+
+.first_slider_home img {
+	width: 100%;
+}
+
+
+
+/*
+///////////////////////////////////////////////////
+Icons Section Homepage
+///////////////////////////////////////////////////
+*/
+
+.section_icon_home {
+  text-align: center;
+  padding: 50px;
+}
+.icons_text_homepage_first_section {
+  padding: 30px 0px;
+}
+.section_icon_home h3 {
+  font-family: 'Montserrat-Bold';
+  color: #272f34;
+  font-size: 30px;
+}
+.section_icon_home hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 3px solid #cc0241;
+    /*margin: 1em 0;*/
+    padding: 0;
+    width: 10%;
+}
+
+.section_icon_home p {
+  font-family: 'Montserrat-Bold';
+  font-size: 14px;
+}
+
+.section_icon_home button {
+  background-color: #cc0241;
+  color: white; 
+  border: none;
+  font-family: 'Montserrat-Bold';
+  height: 40px;
+  width: 170px;
+  border-radius: 3px;
+  margin-top: 30px;
+  font-size: 12px;
+}
+
+/*
+///////////////////////////////////////////////////
+Who we are Section Homepage
+///////////////////////////////////////////////////
+*/
+
+.home_who_we_are {	
+	background-image: url('../img/background/who_we_are_home-bg-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 50px 10px;
+	color: white;
+	text-align: left;
+}
+.home_who_we_are h1 {
+	font-family: 'Montserrat-Bold';
+	padding-bottom: 10px;
+
+}
+
+.home_who_we_are p {
+	color: #55565A;
+	font-size: 16px;
+}
+
+.home_who_we_are button {
+	color: white;
+	font-family: 'Montserrat-Bold';
+	background-color: #CC0241;
+	width: 150px;
+	height: 35px;
+	border-radius: 4px;
+	border: none;
+	font-size: 12px;
+	margin-top: 20px;	
+}
+
+/*
+///////////////////////////////////////////////////
+News Section HOMEPAGE
+///////////////////////////////////////////////////
+*/
+
+.news_home_page_sl {
+	padding: 60px 10px;
+	background-color: #272F34; 
+}
+.news_home_page_sl h1 {
+    color: white;
+    font-size: 30px;
+    font-family: 'Montserrat-Bold';
+    padding-left: 12px;
+}
+.news_home_page_sl hr {
+	display: block;
+    height: 2px;
+    border: 0;
+    border-top: 3px solid white;
+    margin: 10px 13px;
+    padding: 0;
+    width: 10%;
+}
+.small_panel_news h5 {
+	color: white;
+	font-family: 'Montserrat-Bold';
+	font-size: 22px;
+}
+
+.small_panel_news p {
+	color: #55565A;
+}
+
+.small_panel_news button {	
+	color: white;
+	font-family: 'Montserrat-Bold';
+	background-color: #CC0241;
+	width: 150px;
+	height: 35px;
+	border-radius: 4px;
+	border: none;
+	font-size: 12px;
+	margin-top: 20px;	
+}
+
+
+/*
+///////////////////////////////////////////////////
+Join Us Section Image And text 
+///////////////////////////////////////////////////
+*/
+
+.join_us_section img {
+  width: 100%;
+}
+
+.join_us_section_text {
+  padding: 65px;
+}
+
+.join_us_section_text h3 {
+  font-family: 'Montserrat-Bold';
+  color: #cc0241;
+  font-size: 30px;
+}
+
+.join_us_section_text hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 3px solid #cc0241;
+    margin: 1em 0;
+    padding: 0;
+    width: 20%;
+}
+
+.join_us_section_text p {
+  font-family: 'Montserrat-UltraLight';
+  color: #55565a;
+  font-size: 16px;
+}
+
+.first_btn_join {
+  background-color: #cc0241;
+  color: white;
+  border: none;
+  font-family: 'Montserrat-UltraLight';
+  height: 30px;
+  width: 150px;
+  border-radius: 3px;
+  margin-bottom: 5px;
+}
+.second_btn_join {
+  background-color: #272f34;
+  color: white;
+  border: none;
+  font-family: 'Montserrat-UltraLight';
+  height: 30px;
+  width: 150px;
+  border-radius: 3px;
+  margin-bottom: 5px;
+}
+
+/*
+///////////////////////////////////////////////////
+Send Message Section Red 
+///////////////////////////////////////////////////
+*/
+
+.new_letter_section {
+  background-color: #cc0241;
+  padding: 20px;
+}
+
+.new_letter_section h1 {
+  font-family: 'Montserrat-Bold';
+  font-size: 25px;
+  color: white;
+  padding-top: 5px;
+  margin-top: 12px;
+}
+
+.input_section_home {
+  text-align: right;
+  padding-top: 15px;
+
+}
+
+.input_section_home input {
+  width: 50%;
+  background-color: transparent;
+  color: white;
+  border-radius: 3px;
+  border: solid 1px white;
+  height: 35px;
+  padding: 0px 10px;
+}
+
+::-webkit-input-placeholder {
+   color: white;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: white;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: white;  
+}
+
+:-ms-input-placeholder {  
+   color: white;  
+}
+.input_section_home button {
+  background-color: transparent;
+  border: solid 1px white;
+  color: white;
+  border-radius: 3px;
+  width: 20%;
+  height: 35px;
+}

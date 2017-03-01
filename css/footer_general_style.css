@@ -1,0 +1,46 @@
+
+/*General Footer Section on all Pages!!!*/
+
+.general_footer {
+  background-color: #cc0241;
+  padding: 30px 0px 10px;
+  color: white;
+}
+.footer_navigation_list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px 0px 10px;
+    overflow: hidden;
+}
+.footer_navigation_list li {
+  float: left;
+  padding: 0px 30px 0px 0px
+}
+.footer_navigation_list a {
+  text-decoration: none;
+  color: white;
+  font-family: 'Montserrat-Bold';
+  font-size: 12px;
+}
+
+
+
+.solial_media_footer {
+  text-align: right;
+}
+
+.solial_media_footer i {
+    color: white;
+    font-size: 22px;
+    padding-left: 22px;
+}
+
+
+.solial_media_footer h5 {
+  margin: 0px;
+  font-family: 'Montserrat-Bold';
+}
+
+.solial_media_footer p {
+  font-family: 13px;
+}

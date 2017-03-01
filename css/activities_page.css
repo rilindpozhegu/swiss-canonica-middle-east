@@ -1,0 +1,221 @@
+/*
+///////////////////////////////////////////////////
+Slider Style 
+///////////////////////////////////////////////////
+*/
+.carousel-inner {
+  height: 100vh;
+}
+.carousel-inner img {
+  width: 100%;
+  height: 100vh !important;
+}
+
+.logo-slider-over {
+    position: absolute !important;
+    top:28%;
+    text-align: center !important;
+    font-family: 'Montserrat';
+}
+
+.logo-slider-over h4 {
+	font-family:'PlayfairDisplay-Italic';
+	color: white;
+	opacity: .8;
+	font-size: 32px;
+}
+
+.logo-slider-over h1 {
+	font-size: 60px;
+	color: white;
+	font-family: 'Montserrat-Bold';
+	padding: 5px 0px 20px; 
+}
+
+.logo-slider-over p {
+	color: white;
+	font-family: 'Montserrat-UltraLight';
+	font-size: 15px;
+}
+
+.logo-slider-over button {
+	background-color: #cc0241;
+	color: white; 
+	border: none;
+	font-family: 'Montserrat-UltraLight';
+	height: 33px;
+    width: 110px;
+    border-radius: 3px;
+    margin-top: 30px;
+} 
+
+/*Tab section on the Activities Section*/
+.tabs_section_activities {
+	padding: 60px 10px;
+}
+.tab-buttons_sm {
+	text-align: center;
+}
+
+.tab-buttons_sm img {
+	width: 70%;
+}
+
+.pic1 {
+	background-image: url('../img/icon1_activities-01.png');
+	width: 100%;
+	height: 163px;
+	position: 0px 0px;
+	transition: ease-in-out all 0.3s;
+}
+
+.pic1:hover {
+	background-position: 0px 163px;
+	transition: ease-in-out all 0.3s;
+}
+
+
+.pic2 {
+	background-image: url('../img/icon2_activities-01.png');
+	width: 100%;
+	height: 163px;
+	position: 0px 0px;
+	transition: ease-in-out all 0.3s;
+}
+
+.pic2:hover { 
+	background-position: 0px 163px;
+	transition: ease-in-out all 0.3s;
+}
+
+
+.pic3 {
+	background-image: url('../img/icon3_activities-01.png');
+	width: 100%;
+	height: 163px;
+	position: 0px 0px;
+	transition: ease-in-out all 0.3s;
+}
+
+.pic3:hover {
+	background-position: 0px 163px;
+	transition: ease-in-out all 0.3s;
+}
+
+
+.pic4 {
+	background-image: url('../img/icon4_activities-01.png');
+	width: 100%;
+	height: 163px;
+	position: 0px 0px;
+	transition: ease-in-out all 0.3s;
+}
+
+.pic4:hover {
+	background-position: 0px 163px;
+	transition: ease-in-out all 0.3s;
+}
+
+
+.pic5 {
+	background-image: url('../img/icon5_activities-01.png');
+	width: 100%;
+	height: 163px;
+	position: 0px 0px;
+	transition: ease-in-out all 0.3s;
+}
+
+.pic5:hover {
+	background-position: 0px 163px;
+	transition: ease-in-out all 0.3s;
+}
+
+
+.pic6 {
+	background-image: url('../img/icon6_activities-01.png');
+	width: 100%;
+	height: 163px;
+	position: 0px 0px;
+	transition: ease-in-out all 0.3s;
+}
+
+.pic6:hover {
+	background-position: 0px 163px;
+	transition: ease-in-out all 0.3s;
+}
+
+
+
+
+
+
+
+.under_tab{
+    color: #272F34 !important;
+    text-decoration: none !important;
+    font-family: 'Montserrat-Bold' !important;
+}
+.under_tab:hover {
+    color: #CC0241 !important;
+    text-decoration: none !important;
+    font-family: 'Montserrat-Bold' !important;
+}
+
+.under_tab:active {
+    color: #CC0241 !important;
+    text-decoration: none !important;
+    font-family: 'Montserrat-Bold' !important;
+}
+.under_tab:focus {
+    color: #CC0241 !important;
+    text-decoration: none !important;
+    font-family: 'Montserrat-Bold' !important;
+}
+
+
+
+/*-----------------------------------*/
+
+.tab_content_inside {
+	background-image: url('../img/background/activities_tab_bg-01.png');
+	padding: 50px 10px;
+	height: 700px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.tab_content_inside h3 {
+	color: white;
+	font-family: 'Montserrat-Bold';
+}
+
+.title_paragraph_tab{
+	color: white;
+}
+
+
+
+
+
+.panel_inside_tab {
+	background: white;
+	padding: 20px 30px;
+	margin-top: 20px;
+	color: black !important;
+	transition: ease-in-out all 0.2s;
+}
+.panel_inside_tab:hover {
+	background: #cc0241;
+	color: white !important;
+	transition: ease-in-out all 0.2s;
+}
+
+.panel_inside_tab h5 {
+	font-family: 'Montserrat-Bold';
+	font-size: 18px;
+}
+
+.panel_inside_tab p{
+	font-size: 12px;
+}

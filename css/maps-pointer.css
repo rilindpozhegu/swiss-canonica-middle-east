@@ -1,0 +1,184 @@
+.wrapper {
+  background: transparent;
+  /*padding: 15px 20px;*/
+  position: relative;
+  text-align: center;
+  width: 200px;
+  -webkit-transform: translateZ(0);
+  -webkit-font-smoothing: antialiased; 
+  top: 43%;
+  left: 41%;
+}
+
+.wrapper1 {
+  background: transparent;
+  /*padding: 15px 20px;*/
+  position: relative;
+  text-align: center;
+  width: 200px;
+  -webkit-transform: translateZ(0);
+  -webkit-font-smoothing: antialiased; 
+  top: 45%;
+  left: 45%;
+}
+
+
+
+.pulse {
+  animation-name: pulse_animation;
+  animation-duration: 3000ms;
+  transform-origin:100% 200%;
+  animation-iteration-count: infinite;
+  /*animation-timing-function: linear;*/
+}
+
+
+@keyframes pulse_animation {
+  0% { transform: scale(1.05); }
+  30% { transform: scale(1); }
+  40% { transform: scale(1.05); }
+  50% { transform: scale(1); }
+  60% { transform: scale(1.05); }
+  70% { transform: scale(1); }
+  80% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+  from {color: #cc0241;}
+    to {color: red;}
+}
+
+
+
+.wrapper .tooltip {
+    text-align: center;
+    border-radius: 50%;
+    background: #cc0241;
+    bottom: 100%;
+    color: #fff;
+    font-size: 12px;
+    display: block;
+    left: 0px;
+    margin-bottom: 10px;
+    opacity: 0;
+    /* padding: 68px 0px; */
+    pointer-events: none;
+    position: absolute;
+    width: 100%;
+    height: 150px;
+    padding-top: 39px;
+    -webkit-transform: translateY(10px);
+    -moz-transform: translateY(10px);
+    -ms-transform: translateY(10px);
+    -o-transform: translateY(10px);
+    transform: translateY(10px);
+    -webkit-transition: all .25s ease-out;
+    -moz-transition: all .25s ease-out;
+    -ms-transition: all .25s ease-out;
+    -o-transition: all .25s ease-out;
+    transition: all .25s ease-out;
+    -webkit-box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+    -moz-box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+    -ms-box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+    -o-box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+}
+/* This bridges the gap so you can mouse into the tooltip without it disappearing */
+.wrapper .tooltip:before {
+  bottom: -20px;
+  content: " ";
+  display: block;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}  
+
+/* CSS Triangles - see Trevor's post */
+.wrapper .tooltip:after {
+  border-left: solid transparent 10px;
+  border-right: solid transparent 10px;
+  border-top: solid #cc0241 10px;
+  bottom: -10px;
+  content: " ";
+  height: 0;
+  left: 50%;
+  margin-left: -13px;
+  position: absolute;
+  width: 0;
+}
+  
+.wrapper:hover .tooltip {
+  opacity: 1;
+  pointer-events: auto;
+  -webkit-transform: translateY(0px);
+     -moz-transform: translateY(0px);
+      -ms-transform: translateY(0px);
+       -o-transform: translateY(0px);
+          transform: translateY(0px);
+}
+
+/* IE can just show/hide with no transition */
+.lte8 .wrapper .tooltip {
+  display: none;
+}
+
+.lte8 .wrapper:hover .tooltip {
+  display: block;
+}
+
+/***************************/
+
+
+.map_section_bottom_home {
+  background-image: url('../img/swiss_map_pointers-01.png');
+  height: 700px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.wrapper i {
+  font-size: 22px;
+  color: #cc0241;
+}
+
+.wrapper1 i {
+  color: purple;
+  font-size: 22px;
+}
+
+.aa i{
+  color: white;
+}
+
+/*
+///////////////////////////////////////////////////
+Responsive Part 
+///////////////////////////////////////////////////
+*/
+
+@media only screen and (min-width: 844px) {
+    .desktop-d-n {
+        display: none;
+    }
+}
+
+/*Mobile Version*/
+
+@media only screen and (max-width: 844px) {
+    .mobile-d-n {
+        display: none;
+    }
+    .map_section_bottom_home {
+      height: 300px;
+    }
+    .wrapper {
+      position: relative;
+      top: 42%;
+      left: 25%;
+    }
+    .wrapper1 {
+      position: relative;
+      top: 44%;
+      left: 35%;
+    }
+}

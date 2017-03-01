@@ -1,0 +1,149 @@
+/*--------------------------*/
+
+/*		Home Page Swiss     */
+
+/*--------------------------*/
+
+.cover_our_history_page {
+	background-image: url('../img/background/our_history-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 760px;
+	padding-top: 200px;
+	color: white;
+	text-align: center;
+	background-attachment: fixed;
+}
+/*.cover_our_history_page h1{
+	font-size: 67px;
+}
+.cover_our_history_page span {
+	color: #CC0241;
+	font-family: 'Montserrat-Bold';
+}
+.cover_our_history_page p {
+	font-size: 20px;
+	color: #CCCCCC;
+}
+.cover_our_history_page button {
+	color: white;
+	font-family: 'Montserrat-Bold';
+	background-color: #CC0241;
+	width: 150px;
+	height: 35px;
+	border-radius: 4px;
+	border: none;
+	font-size: 12px;
+	margin-top: 20px;
+}
+*/
+
+/*first Section_our History*/
+
+.first_section_our_history_p {
+	padding: 60px 10px;
+}
+
+.first_section_our_history_p h1 {
+	font-family: 'Montserrat-Bold';
+	text-align: center;color: #272f34;
+    font-size: 30px;
+}
+.first_section_our_history_p hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 3px solid #cc0241;
+    /* margin: 1em 0; */
+    padding: 0;
+    width: 10%;
+}
+
+.first_section_our_history_p p {
+	color: #55565A;
+	padding-top: 20px;
+}
+
+
+/*Second Section HEre*/
+.second_section_our_history_p {
+	background-image: url('../img/background/second_our_history-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 50px 10px;
+	color: white;
+	background-attachment: fixed;
+}
+
+.second_section_our_history_p h3 {
+	font-family: 'Montserrat-Bold';
+}
+
+.second_section_our_history_p p {
+	font-size: 13px;
+}
+
+
+/*Facts Section*/
+
+.counter_section h1 {
+	font-family: 'Montserrat-Bold';
+	text-align: center;color: #272f34;
+    font-size: 30px;
+}
+.counter_section {
+	padding: 70px 10px;
+	text-align: center;
+}
+
+.counter_section .small_fact {
+	border: red solid 1px;
+	padding: 35px 50px;
+	border-radius: 100px;
+	color: white;
+	background-color: #CC0241;
+}
+
+.counter_section span {
+	font-size: 40px;
+	font-family: 'Montserrat-Bold';
+}
+
+.text_on_facts {
+	padding: 30px 10px;
+}
+.text_on_facts p {
+	color: #272F34;
+}
+.text_on_facts button {	
+    color: white;
+    font-family: 'Montserrat-Bold';
+    background-color: #CC0241;
+    width: 150px;
+    height: 35px;
+    border-radius: 4px;
+    border: none;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+/*Last Section on Our History*/
+
+.third_section_our_history {
+	background-image: url('../img/background/third_our_history-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 80px 10px;
+	color: white;
+	text-align: center;
+}
+
+.third_section_our_history h1{
+	font-family: 'Montserrat-Bold';
+	text-align: center;color: white;
+    font-size: 30px;
+    padding-bottom: 20px;
+}

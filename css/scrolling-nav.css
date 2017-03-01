@@ -1,0 +1,239 @@
+/*====================================*/
+
+/*        -EMIRATES GRAPHIC-          */
+
+/*        emiratesgraphic.com         */
+
+/*====================================*/
+
+
+
+/*====================*/
+/*       FONTS        */
+/*====================*/
+
+
+@font-face {
+  font-family: 'Montserrat-Bold';
+  src: url('../fonts/Montserrat-Bold.otf');
+ }
+ @font-face {
+  font-family: 'PlayfairDisplay-Italic';
+  src: url('../fonts/PlayfairDisplay-Italic.otf');
+ }
+@font-face {
+  font-family: 'Montserrat-Light';
+  src: url('../fonts/Montserrat-Light.otf');
+ }
+@font-face {
+  font-family: 'Montserrat-UltraLight';
+  src: url('../fonts/Montserrat-UltraLight.otf');
+ }
+
+
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Montserrat-UltraLight';
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+button:active {
+    outline: none !important;
+}
+
+button:focus {
+    outline: none !important;
+}
+
+@media(min-width:767px) {
+    .navbar {
+        padding: 20px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .top-nav-collapse {
+        padding-top: 10px !important;
+        padding-bottom: 5px !important;
+        background-color: rgba(39, 47, 52, 0.9) !important;
+    }
+    .top-nav-collapse .navbar-header img {
+      width: 220px !important;
+      margin-top: 7px;
+      transition: ease-in-out all 0.5s !important;
+    }
+    .top-nav-collapse .social_media_nav {
+      display: none !important;
+    transition: ease-in-out 0.9s all !important;
+    }
+
+}
+
+
+/*************************/
+/*      MY EDITION       */
+/*************************/
+
+.navbar-default {
+    background-color: transparent;
+    border: none;
+    padding-top: 30px;
+}
+
+.navbar-header img {
+    width: 270px;
+    margin-top: 7px;
+    transition: ease-in-out all 0.5s;
+}
+
+.navbar-right a {
+    color: white !important;
+    font-family: 'Montserrat-Bold';
+    font-size: 12px;
+}
+
+/*Header on Mobile Mode*/
+.header_section_mobile {
+  background-image: url('../img/slider/slider1-01.png');
+}
+
+
+
+
+/************************/
+/*  Social Media On top */
+/************************/
+.social_media_nav {
+    position: absolute;
+    color: white;
+    top: 44px;
+    left: 48.5%;
+    transition: ease-in-out 0.5s all;
+}
+.social_media_nav i {
+  font-size: 20px;
+  padding: 0px 8px;
+}
+
+
+
+/*
+///////////////////////////////////////////////////
+language Btn 
+///////////////////////////////////////////////////
+*/
+.language_li {
+  margin-right: 4px;
+}
+.language_en {
+  border:solid 1px white;
+    padding: 3px 5px !important;
+    border-radius: 50px;
+    margin-top: 11px;
+    /*margin-right: 4px;*/
+    font-size: 10px;
+  }
+  .language_fr {
+    border:solid 1px white;
+    padding: 3px 5px !important;
+    border-radius: 50px;
+    margin-top: 11px;
+    /*margin-right: 4px;*/
+    font-size: 10px;
+  }
+
+  .language_frm {
+    padding: 5px !important;
+    color: white; 
+  }
+  .language_frm:hover {
+    text-decoration: none !important;
+    color: white;
+  } 
+  .language_enm {
+    padding: 5px !important;
+    color: white; 
+  }
+  .language_enm:hover {
+    text-decoration: none !important;
+    color: white;
+  } 
+  .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    background-color: transparent !important;
+  }
+/*
+///////////////////////////////////////////////////
+Responsive Part 
+///////////////////////////////////////////////////
+*/
+
+@media only screen and (min-width: 844px) {
+    .desktop-d-n {
+        display: none;
+    }
+}
+
+/*Mobile Version*/
+
+@media only screen and (max-width: 844px) {
+    .mobile-d-n {
+        display: none !important;
+    }
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+       border-color: transparent; 
+      background: rgba(39, 47, 52, 0.9);
+      text-align: center;
+      transition: ease-in-out 0.5s;
+    }
+    .top-nav-collapse {
+      background: rgba(39, 47, 52, 0.9);
+      margin-top: 0px;
+      padding-top: 10px;
+      transition: ease-in-out 0.5s;
+    }
+    .social_media_nav {
+      display: none;
+    }
+      .navbar-header img {
+        width: 170px;
+        margin-top: 5px;
+        float: right;
+        margin-right: 15px;
+    }
+    .navbar-default .navbar-toggle {
+        border-color: transparent;
+        float: left;
+        margin-top: 0px;
+        margin-left: 15px;
+    }
+    .navbar-default .navbar-toggle:hover {
+      background-color: transparent !important;
+    }
+    .navbar-default .navbar-toggle:active {
+      background-color: transparent !important;
+    }
+    .navbar-default .navbar-toggle:focus {
+      background-color: transparent !important;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+      background-color: white;
+    }
+
+    .navbar-default {
+    background-color: transparent;
+    border: none;
+    padding-top: 30px;
+    background: rgba(39, 47, 52, 0.9);
+}
+
+}
+
+
+
+
