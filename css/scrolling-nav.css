@@ -84,6 +84,7 @@ button:focus {
     background-color: transparent;
     border: none;
     padding-top: 30px;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.0), 0 16px 20px rgba(0,0,0,0.22);
 }
 
 .navbar-header img {

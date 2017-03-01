@@ -125,13 +125,16 @@
                             <p>STATISTIC</p>
                     </div>
                 </div>
+                <div class="col-xs-3"></div>
                 <div class="col-md-2 col-xs-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                      <div class=" small_fact">
                             <span class="counter" style="display: inline-block;">21</span>
                             <p>STATISTIC</p>
                     </div>
                 </div>
+                <div class="col-xs-3"></div>
                 <div class="col-md-1"></div>
+                <div class="clearfix"></div>
                 <div class="col-md-12 text_on_facts">
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing</p>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing</p>

@@ -20,7 +20,7 @@
 
 
 <!-- NavigationBar -->
-    <?php include 'navigation_bar.php';?>
+    <?php include 'navigation_bar_colored.php';?>
 
 
 <!-- First Section Cover Image HomePage -->
@@ -37,175 +37,168 @@
 </section>
 
 
-<!-- Logos Slider Section -->
+<!-- Fist Section Logo and text! -->
 
-<div class="first_slider_home">
-<section class="owl_section_nd">
+<section class="first_section_logo_text">
     <div class="container">
         <div class="row">
-            <section id="demos">
-              <div class="">
-                <div class="large-12 columns">
-                    <div class="owl-carousel costumb">
-
-                    <div class="item col-xs-12">
-                        <img src="img/logo/logo_s1-01.png">
-                    </div>    
-                    <div class="item col-xs-12">
-                        <img src="img/logo/logo_s2-01.png">
-                    </div>    
-                    <div class="item col-xs-12">
-                        <img src="img/logo/logo_s3-01.png">
-                    </div>    
-                    <div class="item col-xs-12">
-                        <img src="img/logo/logo_s4-01.png">
-                    </div>    
-                    <div class="item col-xs-12">
-                        <img src="img/logo/logo_s5-01.png">
-                    </div>    
-                    <div class="item col-xs-12">
-                        <img src="img/logo/logo_s6-01.png">
-                    </div>    
-                    <div class="item col-xs-12">
-                        <img src="img/logo/logo_s7-01.png">
-                    </div>    
-                    </div>
-                    
-                  </div>
-                </div>
-              </div>
-            </section>
+            <img src="img/logo/black_red_logo-01-01.png">
+            <p>Founded in Geneva in 1948 by André Canonica, Canononica is the company at the root of SWISSCANONICA Group, active in the airport catering sector.</p>
+            <p>The quality of its service has resulted in the company managing numerous points of sale at Geneva airport. In 2013, the company extended its core business to Basel airport.</p>
+            <p>Canonica quickly undertook in-flight catering activities for airliners (1952) before completing its services with high-end catering for the private aviation sector.</p>
+            <p>In 2002, Vincent Canonica, founder’s son, took over the family business with the objective of extending its business lines beyond the Swiss borders and diversifying its activities. Thus, in 2008, SWISSCANONICA extended its successful catering business to Paris Le Bourget first and to Nice and Cannes airports in a second phase.</p>
+            <button>More <i class="fa fa-angle-right"></i></button>
         </div>
     </div>
 </section>
-</div>
 
 
+<!-- Second Section Homepage -->
 
-<!-- Icons Section Homepage -->
+<section class="inerpages_section_home">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12 no_padding">
+                <div class="col-md-6 no_padding desktop-d-n">
+                    <img src="img/home_iner1-01.png">
+                </div>
+                <div class="col-md-6 iner_text_panel_home">
+                    <h1>Food Supply</h1>
+                    <h4>FEATURE MAIN DESCRIPTION</h4>
+                    <hr>
+                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero</p>
+                    <a href="food_supply"><button>More <i class="fa fa-angle-right"></i></button></a>
+                </div>
+                <div class="col-md-6 no_padding mobile-d-n">
+                    <img src="img/home_iner1-01.png">
+                </div>
+            </div>
 
-    <section class="section_icon_home">
-        <div class="container">
+            <div class="col-md-12 no_padding">
+                <div class="col-md-6 no_padding">
+                    <img src="img/home_iner2-01.png">
+                </div>
+                <div class="col-md-6 iner_text_panel_home">
+                    <h1>Food Supply</h1>
+                    <h4>FEATURE MAIN DESCRIPTION</h4>
+                    <hr>
+                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero</p>
+                    <a href="consulting_page"><button>More <i class="fa fa-angle-right"></i></button></a>
+                </div>
+            </div>
+
+            <div class="col-md-12 no_padding">
+                <div class="col-md-6 no_padding desktop-d-n">
+                    <img src="img/home_iner3-01.png">
+                </div>
+                <div class="col-md-6 iner_text_panel_home">
+                    <h1>Food Supply</h1>
+                    <h4>FEATURE MAIN DESCRIPTION</h4>
+                    <hr>
+                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero</p>
+                    <a href="chocolate_page"><button>More <i class="fa fa-angle-right"></i></button></a>
+                </div>
+                <div class="col-md-6 no_padding mobile-d-n">
+                    <img src="img/home_iner3-01.png">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Partners Section Homepage -->
+<section class="partners_homepage">
+    <div class="container">
+        <div class="row">
+            <h1>Our Brands</h1>
+            <p>SWISS CANONICA BRANDS</p>
             <hr>
-            <h3  class="wow bounceIn" data-wow-duration="1s" data-wow-delay=".2s">Our Activities</h3>
-            <div class="row icons_text_homepage_first_section">
-                <div class="col-md-2 col-xs-6">
-                    <img src="img/icons/icon1-01.png" class="wow bounceIn" data-wow-duration="1s" data-wow-delay=".3s">
-                    <p>SWISSCANONICA</p>
-                    <h5>We handle the linen of Emirates since the 1st August 2016 in our laundry in Zurich (2 flights A380 per day)</h5>
+            <div class="col-md-3 col-xs-6">
+                <img src="img/logo/partner1-01.png">
+            </div>
+
+            <div class="col-md-3 col-xs-6">
+                <img src="img/logo/partner2-01.png">
+            </div>
+
+            <div class="col-md-3 col-xs-6">
+                <img src="img/logo/partner3-01.png">
+            </div>
+
+            <div class="col-md-3 col-xs-6">
+                <img src="img/logo/partner4-01.png">
+            </div>
+
+            <div class="col-md-3 col-xs-6">
+                <img src="img/logo/partner5-01.png">
+            </div>
+
+            <div class="col-md-3 col-xs-6">
+                <img src="img/logo/partner6-01.png">
+            </div>
+
+            <div class="col-md-3 col-xs-6">
+                <img src="img/logo/partner7-01.png">
+            </div>
+
+            <div class="col-md-3 col-xs-6">
+                <img src="img/logo/partner8-01.png">
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+<!-- Testimonials -->
+    <section class="testimonails_home_section">
+        <div class="container">
+        <h3>Latest News</h3>
+        <span>STAY CONNECTED</span>
+        <hr>
+            <div class="row">
+
+                <div class="col-md-4 testimonial_small_panel small_padding-lr row">
+                    <div class="col-md-4 col-xs-4 no_padding">
+                        <img src="img/swiss_avatar-01.png" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
+                    </div>
+                    <div class="col-md-8 col-xs-8 small_panel_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
+                        <h4>News Title</h4>
+                        <span>SWAY CONNECTED WITH SWISS CANONICA</span>
+                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet  amet, consectetuer adipiscing elit</p>
+                        <button class="all_btn_hover">More&nbsp;  <i class="fa fa-angle-right" aria-hidden="true"></i></button>
+                    </div>
                 </div>
-                <div class="col-md-2 col-xs-6">
-                    <img src="img/icons/icon2-01.png" class="wow bounceIn" data-wow-duration="1s" data-wow-delay=".3s">
-                    <p>CHOCOLATE</p>
-                    <h5>Canonica chocolates, Winner of the Grand Prix du Chocolat Artisanal of Geneva. Samuel ROMAGNE, Chocolate Master of the Maison Canonica, awarded</h5>
+                <div class="col-md-4 testimonial_small_panel small_padding-lr row">
+                    <div class="col-md-4 col-xs-4 no_padding">
+                        <img src="img/swiss_avatar-01.png" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
+                    </div>
+                    <div class="col-md-8 col-xs-8 small_panel_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">
+                        <h4>News Title</h4>
+                        <span>SWAY CONNECTED WITH SWISS CANONICA</span>
+                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet  amet, consectetuer adipiscing elit</p>
+                        <button class="all_btn_hover">More&nbsp;  <i class="fa fa-angle-right" aria-hidden="true"></i></button>
+                    </div>
                 </div>
-                <div class="col-md-2 col-xs-6">
-                    <img src="img/icons/icon3-01.png" class="wow bounceIn" data-wow-duration="1s" data-wow-delay=".3s">
-                    <p>HOTEL</p>
-                    <h5>Check out our website www.swissever.com</h5>
+                <div class="col-md-4 testimonial_small_panel small_padding-lr row">
+                    <div class="col-md-4 col-xs-4 no_padding">
+                        <img src="img/swiss_avatar-01.png" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
+                    </div>
+                    <div class="col-md-8 col-xs-8 small_panel_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">
+                        <h4>News Title</h4>
+                        <span>SWAY CONNECTED WITH SWISS CANONICA</span>
+                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet  amet, consectetuer adipiscing elit</p>
+                        <button class="all_btn_hover">More&nbsp;  <i class="fa fa-angle-right" aria-hidden="true"></i></button>
+                    </div>
                 </div>
-                <div class="col-md-2 col-xs-6">
-                    <img src="img/icons/icon4-01.png" class="wow bounceIn" data-wow-duration="1s" data-wow-delay=".3s">
-                    <p>LAUNDRY</p>
-                    <h5>Newrest Canonica wins the contract to managethe F&B units in Charlie Chaplin Museum</h5>
-                </div>
-                <div class="col-md-2 col-xs-6">
-                    <img src="img/icons/icon5-01.png" class="wow bounceIn" data-wow-duration="1s" data-wow-delay=".3s">
-                    <p>IN FLIGHT CATERING</p>
-                    <h5>Renewal of the contract with Etihad for the flights departing from Geneva Airport</h5>
-                </div>
-                <div class="col-md-2 col-xs-6">
-                    <img src="img/icons/icon6-01.png" class="wow bounceIn" data-wow-duration="1s" data-wow-delay=".3s">
-                    <p>RETAIL</p>
-                    <h5>description <br> goes <br> here</h5>
-                </div>
-                <div class="col-md-12">
-                    <a href="activities"><button class="all_btn_hover">View All Activities&nbsp;  <i class="fa fa-angle-right" aria-hidden="true"></i></button></a>
-                </div>
+                <div class="clearfix"></div>
             </div>
         </div>
     </section>
 
 
-<!-- Who We Are Section HOMEPAGE -->
-<section class="home_who_we_are">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                <h1>WHO WE ARE</h1>
-                <p>The quality of its service has resulted in the company managing numerous points of sale at Geneva airport. In 2013, the company extended its core business to Basel airport.</p>
-                <p>Canonica quickly undertook in-flight catering activities for airliners (1952) before completing its services with high-end catering for the private aviation sector.</p>
-                <p>In 2002, Vincent Canonica, founder’s son, took over the family business with the objective of extending its business lines beyond the Swiss borders and diversifying its activities. Thus, in 2008, SWISSCANONICA extended its successful catering business to Paris Le Bourget first and to Nice and Cannes airports in a second phase.</p>
-                <button>More <i class="fa fa-angle-right"></i></button>
-            </div>
-        </div>
-    </div>
-</section>
-
-
-
-<!-- News Titile Goes Here!  -->
-<div class="news_home_page_sl">
-<section class="owl_section_nd">
-    <div class="container">
-        <div class="row">
-            <h1 class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">Latest News</h1>
-            <hr>
-            <section id="demos">
-              <div class="">
-                <div class="large-12 columns  wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                  <div class="owl-carousel owl-theme costumsuper">
-
-                    <div class="item panel_slider_ho">
-                        <div class="col-md-12 col-xs-12">
-                            <div class="small_panel_news">
-                                <img src="img/owl_img1-01.png">
-                                <div class="text_small_panel_in">
-                                    <h5>NEWS TITLE GOES HERE </h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci 
-                                    </p>
-                                    <button  class="hover_button">Read More  <i class="fa fa-angle-right"></i></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                     <div class="item panel_slider_ho">
-                        <div class="col-md-12 col-xs-12">
-                            <div class="small_panel_news">
-                                <img src="img/owl_img1-01.png">
-                                <div class="text_small_panel_in">
-                                    <h5>NEWS TITLE GOES HERE 1</h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci 
-                                    </p>
-                                    <button  class="hover_button">Read More  <i class="fa fa-angle-right"></i></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                     <div class="item panel_slider_ho">
-                        <div class="col-md-12 col-xs-12">
-                            <div class="small_panel_news">
-                                <img src="img/owl_img1-01.png">
-                                <div class="text_small_panel_in">
-                                    <h5>NEWS TITLE GOES HERE 2</h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci 
-                                    </p>
-                                    <button  class="hover_button">Read More  <i class="fa fa-angle-right"></i></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-               
-                  </div>
-                </div>
-              </div>
-            </section>
-        </div>
-    </div>
-</section>
-</div>
 
 
 

@@ -1,0 +1,91 @@
+/*
+///////////////////////////////////////////////////
+Responsive Part 
+///////////////////////////////////////////////////
+*/
+
+@media only screen and (min-width: 844px) {
+    .desktop-d-n {
+        display: none;
+    }
+}
+
+/*Mobile Version*/
+
+@media only screen and (max-width: 844px) {
+    .mobile-d-n {
+        display: none;
+    }
+			/*HomePage*/
+
+	.cover_home_page {
+		padding-top: 130px;
+		height: 560px;
+    	background-position-x: 25%;
+	}		
+    .cover_home_page h1 {
+	    font-size: 33px;
+	}
+	.cover_home_page p {
+		font-size: 19px;
+	}
+	.first_section_logo_text p {
+	    color: #55565A;
+	    padding-top: 5px;
+	    font-size: 13px;
+	}
+	.iner_text_panel_home p {
+    color: #FFFFFF;
+    font-size: 14px;
+	}
+	.join_us_section_text {
+		padding: 20px 10px;
+	}
+	.input_section_home button {
+	    background-color: transparent;
+	    border: solid 1px white;
+	    color: white;
+	    border-radius: 3px;
+	    width: 37%;
+	    height: 35px;
+	}
+	.input_section_home {
+		text-align: left;
+	}
+	.partners_homepage img {
+	    width: 100%;
+	    padding: 20px;
+	}
+	.cover_our_history_page {
+		height: 560px;
+	}
+	.small_fact {
+		margin-top: 10px;
+	}
+
+	.cover_lastest_news_page {
+		padding-top: 130px;
+		height: 560px;
+	}
+	.cover_lastest_news_page h1 {
+		font-size: 33px;
+	}
+	.cover_lastest_news_page p {
+		font-size: 13px;
+	}
+
+
+	.cover_career_page {		
+		padding-top: 130px;
+		height: 560px;
+	}
+	.cover_career_page h1 {
+		font-size: 33px;
+	}
+	.cover_career_page p {
+		font-size: 13px;
+	}
+	.career_small_pan {
+		margin-top: 50px;
+	}
+}

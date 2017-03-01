@@ -54,10 +54,10 @@
                         <a class="#" href="our_history">OUR HISTORY</a>
                     </li>
                     <li>
-                        <a class="#" href="activities">ACTIVITIES</a>
+                        <a class="#" href="lastest_news">LASTEST NEWS</a>
                     </li>
                     <li>
-                        <a class="#" href="about_us">ABOUT US</a>
+                        <a class="#" href="career_with_swiss_canonica.php">CAREER</a>
                     </li>
 
                     </ul>

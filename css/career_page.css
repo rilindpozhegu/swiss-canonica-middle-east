@@ -1,0 +1,122 @@
+/*----------------------*/
+
+/*		Career Page     */
+
+/*----------------------*/
+
+
+.cover_career_page {
+	background-image: url('../img/background/creer_bg-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	/*background-position: center;*/
+	height: 760px;
+	padding-top: 200px;
+	color: white;
+	text-align: left;
+  background-attachment: fixed;
+}
+.cover_career_page h1{
+	font-size: 67px;
+	font-family: 'Montserrat-Bold';
+}
+.cover_career_page hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 3px solid #CC0241;
+    margin: 1em 0;
+    padding: 0;
+    width: 20%;
+}
+.cover_career_page p {
+	font-size: 20px; 
+	color: white;
+}
+.cover_career_page button {
+	color: white;
+	font-family: 'Montserrat-Bold';
+	background-color: #CC0241;
+	width: 150px;
+	height: 35px;
+	border-radius: 4px;
+	border: none;
+	font-size: 12px;
+	margin-top: 20px;
+}
+
+
+/* Career Page First Section */
+
+.career_first_section_a {
+	padding: 60px 10px;
+	background-color: #F2F2F2;
+}
+.career_first_section_a img {
+	width: 100%;
+}
+
+.career_first_section_a h1{
+	font-family: 'Montserrat-Bold';
+	color: #272F34;
+	font-size: 30px;
+	margin-bottom: 0px;
+}
+.career_first_section_a hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 3px solid #272F34;
+    margin: 1em 0;
+    padding: 0;
+    width: 20%;
+}
+.career_first_section_a button {
+	color: white;
+	font-family: 'Montserrat-Bold';
+	background-color: #CC0241;
+	width: 150px;
+	height: 35px;
+	border-radius: 4px;
+	border: none;
+	font-size: 12px;
+	margin-top: 20px;
+}
+
+/* Career Last Section */
+
+.career_last_sadow_panel {
+	padding: 50px 10px;
+}
+
+.career_small_pan {
+	/*border: solid 1px black;*/
+	margin-top: 20px;
+	padding: 15px;
+	text-align: center;	
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+	transition: ease-in-out all 0.2s;
+}
+.career_small_pan:hover {
+  	box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+	transition: ease-in-out all 0.2s;
+}
+.career_small_pan h5 {
+	color: #272F34;
+	font-family: 'Montserrat-Bold';
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+.career_small_pan span {
+	color: #A7A9AC;
+}
+.career_small_pan hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 3px solid #324099;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding: 0;
+    width: 20%;
+}
