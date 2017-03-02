@@ -28,9 +28,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>WELCOME TO<br><span>SWISSCANONICA</span></h1>
-                <p>Founded in Geneva in 1948 by André Canonica,Canononica<br> is the company at the root of SWISSCANONICA Group,<br>active in the airport catering sector.</p>
-                <button>More <i class="fa fa-angle-right"></i></button>
+                <h1 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".2s">WELCOME TO<br><span>SWISSCANONICA</span></h1>
+                <p class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">Founded in Geneva in 1948 by André Canonica,Canononica<br> is the company at the root of SWISSCANONICA Group,<br>active in the airport catering sector.</p>
+                <button  class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">More <i class="fa fa-angle-right"></i></button>
             </div>
         </div>
     </div>
@@ -42,12 +42,12 @@
 <section class="first_section_logo_text">
     <div class="container">
         <div class="row">
-            <img src="img/logo/black_red_logo-01-01.png">
+            <img src="img/logo/black_red_logo-01-01.png"  class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".2s">
             <p>Founded in Geneva in 1948 by André Canonica, Canononica is the company at the root of SWISSCANONICA Group, active in the airport catering sector.</p>
             <p>The quality of its service has resulted in the company managing numerous points of sale at Geneva airport. In 2013, the company extended its core business to Basel airport.</p>
             <p>Canonica quickly undertook in-flight catering activities for airliners (1952) before completing its services with high-end catering for the private aviation sector.</p>
             <p>In 2002, Vincent Canonica, founder’s son, took over the family business with the objective of extending its business lines beyond the Swiss borders and diversifying its activities. Thus, in 2008, SWISSCANONICA extended its successful catering business to Paris Le Bourget first and to Nice and Cannes airports in a second phase.</p>
-            <button>More <i class="fa fa-angle-right"></i></button>
+            <button  class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">More <i class="fa fa-angle-right"></i></button>
         </div>
     </div>
 </section>
@@ -63,11 +63,11 @@
                     <img src="img/home_iner1-01.png">
                 </div>
                 <div class="col-md-6 iner_text_panel_home">
-                    <h1>Food Supply</h1>
-                    <h4>FEATURE MAIN DESCRIPTION</h4>
-                    <hr>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero</p>
-                    <a href="food_supply"><button>More <i class="fa fa-angle-right"></i></button></a>
+                    <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Food Supply</h1>
+                    <h4 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">FEATURE MAIN DESCRIPTION</h4>
+                    <hr class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero</p>
+                    <a href="food_supply"><button class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".6s">More <i class="fa fa-angle-right"></i></button></a>
                 </div>
                 <div class="col-md-6 no_padding mobile-d-n">
                     <img src="img/home_iner1-01.png">
@@ -79,11 +79,11 @@
                     <img src="img/home_iner2-01.png">
                 </div>
                 <div class="col-md-6 iner_text_panel_home">
-                    <h1>Food Supply</h1>
-                    <h4>FEATURE MAIN DESCRIPTION</h4>
-                    <hr>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero</p>
-                    <a href="consulting_page"><button>More <i class="fa fa-angle-right"></i></button></a>
+                    <h1 class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".5s">Consulting</h1>
+                    <h4 class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".2s">FEATURE MAIN DESCRIPTION</h4>
+                    <hr class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".1s">
+                    <p class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".4s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero</p>
+                    <a href="consulting_page"><button class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button></a>
                 </div>
             </div>
 
@@ -92,11 +92,11 @@
                     <img src="img/home_iner3-01.png">
                 </div>
                 <div class="col-md-6 iner_text_panel_home">
-                    <h1>Food Supply</h1>
-                    <h4>FEATURE MAIN DESCRIPTION</h4>
-                    <hr>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero</p>
-                    <a href="chocolate_page"><button>More <i class="fa fa-angle-right"></i></button></a>
+                    <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Chocolate</h1>
+                    <h4 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">FEATURE MAIN DESCRIPTION</h4>
+                    <hr class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero</p>
+                    <a href="chocolate_page"><button  class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".6s">More <i class="fa fa-angle-right"></i></button></a>
                 </div>
                 <div class="col-md-6 no_padding mobile-d-n">
                     <img src="img/home_iner3-01.png">
@@ -115,35 +115,35 @@
             <p>SWISS CANONICA BRANDS</p>
             <hr>
             <div class="col-md-3 col-xs-6">
-                <img src="img/logo/partner1-01.png">
+                <img src="img/logo/partner1-01.png" class="wow zoomIn" data-wow-duration="1s" data-wow-delay=".1s">
             </div>
 
             <div class="col-md-3 col-xs-6">
-                <img src="img/logo/partner2-01.png">
+                <img src="img/logo/partner2-01.png" class="wow zoomIn" data-wow-duration="1s" data-wow-delay=".2s">
             </div>
 
             <div class="col-md-3 col-xs-6">
-                <img src="img/logo/partner3-01.png">
+                <img src="img/logo/partner3-01.png" class="wow zoomIn" data-wow-duration="1s" data-wow-delay=".3s">
             </div>
 
             <div class="col-md-3 col-xs-6">
-                <img src="img/logo/partner4-01.png">
+                <img src="img/logo/partner4-01.png" class="wow zoomIn" data-wow-duration="1s" data-wow-delay=".4s">
             </div>
 
             <div class="col-md-3 col-xs-6">
-                <img src="img/logo/partner5-01.png">
+                <img src="img/logo/partner5-01.png" class="wow zoomIn" data-wow-duration="1s" data-wow-delay=".4s">
             </div>
 
             <div class="col-md-3 col-xs-6">
-                <img src="img/logo/partner6-01.png">
+                <img src="img/logo/partner6-01.png" class="wow zoomIn" data-wow-duration="1s" data-wow-delay=".3s">
             </div>
 
             <div class="col-md-3 col-xs-6">
-                <img src="img/logo/partner7-01.png">
+                <img src="img/logo/partner7-01.png" class="wow zoomIn" data-wow-duration="1s" data-wow-delay=".2s">
             </div>
 
             <div class="col-md-3 col-xs-6">
-                <img src="img/logo/partner8-01.png">
+                <img src="img/logo/partner8-01.png" class="wow zoomIn" data-wow-duration="1s" data-wow-delay=".1s">
             </div>
         </div>
     </div>
@@ -257,7 +257,9 @@
 <!-- jQuery -->
 
     <script type="text/javascript" src="build/scripts.js"></script>
-
+    <script>
+        new WOW().init();
+    </script>
 </body>
 
 </html>

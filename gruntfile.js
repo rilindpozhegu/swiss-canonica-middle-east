@@ -33,6 +33,7 @@ module.exports = function(grunt) {
 
 					// 'js/smoothscroll.js' // Smooth Scroll Script + time to Scroll,
 
+					'js/wow.min.js'
 					],
 
 				dest: 'build/scripts.js'

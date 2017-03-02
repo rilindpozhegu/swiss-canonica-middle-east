@@ -38,24 +38,24 @@
                 <div class="col-md-1"></div>
                 <div class="col-md-10 no_padding">
                 <div class="col-md-12">
-                <h1>GET IN TOUCH</h1>
-                <p>Please fill in this information to send us a message!</p></div>
+                <h1 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".2s">GET IN TOUCH</h1>
+                <p class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".3s">Please fill in this information to send us a message!</p></div>
                 <div class="col-md-4 small_padding-lr">
-                    <input type="" name="" placeholder="Name">
+                    <input type="" name="" placeholder="Name" class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".5s">
                 </div>
                 <div class="col-md-4 small_padding-lr">
-                    <input type="" name="" placeholder="Email">
+                    <input type="" name="" placeholder="Email" class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".5s">
                 </div>
                 <div class="col-md-4 small_padding-lr">
-                    <input type="" name="" placeholder="Subject">
+                    <input type="" name="" placeholder="Subject" class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".5s">
                 </div>
 
                 <div class="col-md-12 small_padding-lr">
-                    <textarea rows="9" placeholder="Message"></textarea>
+                    <textarea rows="9" placeholder="Message" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s"></textarea>
                 </div>
 
                 <div class="col-md-12">
-                    <button>Submit <i class="fa fa-angle-rigt"></i></button>
+                    <button class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">Submit <i class="fa fa-angle-rigt"></i></button>
                 </div>
                 </div>
                 <div class="col-md-1"></div>
@@ -72,7 +72,9 @@
 <!-- jQuery -->
 
     <script type="text/javascript" src="build/scripts.js"></script>
-
+    <script>
+        new WOW().init();
+    </script>
 </body>
 
 </html>
