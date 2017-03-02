@@ -28,15 +28,14 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>WELCOME TO<br><span>SWISSCANONICA</span></h1>
-                <p>Founded in Geneva in 1948 by André Canonica,Canononica<br> is the company at the root of SWISSCANONICA Group,<br>active in the airport catering sector.</p>
+                <h1>Food Supply</h1>
+                <hr>
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit,<br>sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam <br>erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
                 <button>More <i class="fa fa-angle-right"></i></button>
             </div>
         </div>
     </div>
 </section>
-
-
 
 <!-- Second Section Homepage -->
 

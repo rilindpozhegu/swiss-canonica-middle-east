@@ -12,15 +12,20 @@
 	height: 760px;
 	padding-top: 200px;
 	color: white;
-	text-align: center;
-  background-attachment: fixed;
+	text-align: left;
+    background-attachment: fixed;
 }
 .cover_food_supply_page h1{
 	font-size: 67px;
 }
-.cover_food_supply_page span {
-	color: #CC0241;
-	font-family: 'Montserrat-Bold';
+.cover_food_supply_page hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 3px solid white;
+    margin: 1em 0;
+    padding: 0;
+    width: 20% !important;
 }
 .cover_food_supply_page p {
 	font-size: 20px;

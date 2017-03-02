@@ -3693,6 +3693,148 @@ Copyright (c) 2015 Daniel Eden
     padding: 0;
     width: 20%;
 }
+/*--------------------------*/
+
+/*		Chocolate PAge      */
+
+/*--------------------------*/
+
+.cover_chocolate_page {
+	background-image: url('../img/background/our_history-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 760px;
+	padding-top: 200px;
+	color: white;
+	text-align: left;
+    background-attachment: fixed;
+}
+.cover_chocolate_page h1{
+	font-size: 67px;
+	font-family: 'Montserrat-Bold';
+}
+.cover_chocolate_page hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 3px solid white;
+    margin: 1em 0;
+    padding: 0;
+    width: 20% !important;
+}
+.cover_chocolate_page p {
+	font-size: 20px;
+	color: white;
+}
+.cover_chocolate_page button {
+	color: white;
+	font-family: 'Montserrat-Bold';
+	background-color: #CC0241;
+	width: 150px;
+	height: 35px;
+	border-radius: 4px;
+	border: none;
+	font-size: 12px;
+	margin-top: 20px;
+}
+
+
+.first_chocolate_inn {
+	background-image: url('../img/inner_bg/consulting_in_1-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	color: white;
+	text-align: left;
+ 	background-attachment: fixed;
+
+}
+
+.second_chocolate_inn {
+	background-image: url('../img/inner_bg/chocolate_in_2-01-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	color: white;
+	text-align: left;
+ 	background-attachment: fixed;	
+}
+/*--------------------------*/
+
+/*		Home Page Swiss     */
+
+/*--------------------------*/
+
+.cover_consulting_page {
+	background-image: url('../img/background/our_history-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 760px;
+	padding-top: 200px;
+	color: white;
+	text-align: left;
+    background-attachment: fixed;
+}
+.cover_consulting_page h1{
+	font-size: 67px;
+	font-family: 'Montserrat-Bold';
+}
+.cover_consulting_page hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 3px solid white;
+    margin: 1em 0;
+    padding: 0;
+    width: 20% !important;
+}
+.cover_consulting_page p {
+	font-size: 20px;
+	color: white;
+}
+.cover_consulting_page button {
+	color: white;
+	font-family: 'Montserrat-Bold';
+	background-color: #CC0241;
+	width: 150px;
+	height: 35px;
+	border-radius: 4px;
+	border: none;
+	font-size: 12px;
+	margin-top: 20px;
+}
+
+
+.first_consulting_inn {
+	background-image: url('../img/inner_bg/consulting_in_1-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	color: white;
+	text-align: left;
+ 	background-attachment: fixed;
+
+}
+
+.second_consulting_inn {
+	background-image: url('../img/inner_bg/consulting_in_2-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	color: white;
+	text-align: left;
+ 	background-attachment: fixed;	
+}
 .contact_page_input_section {
 	background-image: url('../img/background/contact_input_bg-01.png');
 	background-repeat: no-repeat;
@@ -3783,15 +3925,20 @@ Copyright (c) 2015 Daniel Eden
 	height: 760px;
 	padding-top: 200px;
 	color: white;
-	text-align: center;
-  background-attachment: fixed;
+	text-align: left;
+    background-attachment: fixed;
 }
 .cover_food_supply_page h1{
 	font-size: 67px;
 }
-.cover_food_supply_page span {
-	color: #CC0241;
-	font-family: 'Montserrat-Bold';
+.cover_food_supply_page hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 3px solid white;
+    margin: 1em 0;
+    padding: 0;
+    width: 20% !important;
 }
 .cover_food_supply_page p {
 	font-size: 20px;
@@ -5588,5 +5735,87 @@ Responsive Part
 	}
 	.career_small_pan {
 		margin-top: 50px;
+	}
+
+	/*--------------------------*/
+
+	/*		Food Supply Page    */
+
+	/*--------------------------*/
+
+	.cover_food_supply_page {		
+		padding-top: 130px;
+		height: 560px;
+	}
+	.cover_food_supply_page h1 {
+		font-size: 33px;
+	} 
+	.cover_food_supply_page p {
+		font-size: 13px;
+	}
+	.cover_food_supply_page {
+		margin-top: 50px;
+	}
+	.first_food_inn {
+		background-position: 0%;
+	}
+	.second_food_inn {
+		background-position: 100%;
+	}
+	.third_food_inn {
+		background-position: 0%;
+	}
+	.forth_food_inn {
+		background-position: 100%;
+	}
+	.fifth_food_inn {
+		background-position: 0%;
+	}
+	.sixth_food_inn {
+		background-position: 100%;
+	}
+
+	/*Consulting Page Style*/
+
+	.cover_consulting_page {		
+		padding-top: 130px;
+		height: 560px;
+	}
+	.cover_consulting_page h1 {
+		font-size: 33px;
+	} 
+	.cover_consulting_page p {
+		font-size: 13px;
+	}
+	.cover_consulting_page {
+		margin-top: 50px;
+	}
+	.first_consulting_inn {
+		background-position: 0%;
+	}
+	.second_consulting_inn {
+		background-position: 100%;
+	}
+
+	/*Chocolate Innerpage*/
+
+	.cover_chocolate_page {		
+		padding-top: 130px;
+		height: 560px;
+	}
+	.cover_chocolate_page h1 {
+		font-size: 33px;
+	} 
+	.cover_chocolate_page p {
+		font-size: 13px;
+	}
+	.cover_chocolate_page {
+		margin-top: 50px;
+	}
+	.first_chocolate_inn {
+		background-position: 0%;
+	}
+	.second_chocolate_inn {
+		background-position: 100%;
 	}
 }

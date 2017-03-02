@@ -88,4 +88,86 @@ Responsive Part
 	.career_small_pan {
 		margin-top: 50px;
 	}
+
+	/*--------------------------*/
+
+	/*		Food Supply Page    */
+
+	/*--------------------------*/
+
+	.cover_food_supply_page {		
+		padding-top: 130px;
+		height: 560px;
+	}
+	.cover_food_supply_page h1 {
+		font-size: 33px;
+	} 
+	.cover_food_supply_page p {
+		font-size: 13px;
+	}
+	.cover_food_supply_page {
+		margin-top: 50px;
+	}
+	.first_food_inn {
+		background-position: 0%;
+	}
+	.second_food_inn {
+		background-position: 100%;
+	}
+	.third_food_inn {
+		background-position: 0%;
+	}
+	.forth_food_inn {
+		background-position: 100%;
+	}
+	.fifth_food_inn {
+		background-position: 0%;
+	}
+	.sixth_food_inn {
+		background-position: 100%;
+	}
+
+	/*Consulting Page Style*/
+
+	.cover_consulting_page {		
+		padding-top: 130px;
+		height: 560px;
+	}
+	.cover_consulting_page h1 {
+		font-size: 33px;
+	} 
+	.cover_consulting_page p {
+		font-size: 13px;
+	}
+	.cover_consulting_page {
+		margin-top: 50px;
+	}
+	.first_consulting_inn {
+		background-position: 0%;
+	}
+	.second_consulting_inn {
+		background-position: 100%;
+	}
+
+	/*Chocolate Innerpage*/
+
+	.cover_chocolate_page {		
+		padding-top: 130px;
+		height: 560px;
+	}
+	.cover_chocolate_page h1 {
+		font-size: 33px;
+	} 
+	.cover_chocolate_page p {
+		font-size: 13px;
+	}
+	.cover_chocolate_page {
+		margin-top: 50px;
+	}
+	.first_chocolate_inn {
+		background-position: 0%;
+	}
+	.second_chocolate_inn {
+		background-position: 100%;
+	}
 }
