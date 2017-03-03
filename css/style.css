@@ -76,7 +76,7 @@ My Edition
 }
 
 .cd-primary-nav  {
-  padding-top: 200px !important;
+  padding-top: 120px !important;
 }
 
 .cd-primary-nav li {
@@ -301,6 +301,7 @@ html, body {
   }
   .cd-primary-nav-trigger .cd-menu-text {
     display: inline-block;
+    font-size: 15px;
   }
   .cd-primary-nav-trigger .cd-menu-icon {
     left: auto;

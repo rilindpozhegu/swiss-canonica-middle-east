@@ -170,4 +170,21 @@ Responsive Part
 	.second_chocolate_inn {
 		background-position: 100%;
 	}
+
+
+	/*Our History*/
+
+	.cover_our_history_page {		
+		padding-top: 130px;
+		height: 560px;
+	}
+	.cover_our_history_page h1 {
+		font-size: 33px;
+	} 
+	.cover_our_history_page p {
+		font-size: 13px;
+	}
+	.cover_our_history_page {
+		margin-top: 50px;
+	}
 }

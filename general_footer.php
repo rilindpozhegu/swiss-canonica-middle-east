@@ -6,7 +6,7 @@
 				  <li><a href="news.asp">LEGAL CONDITIONS</a></li>
 				  <li><a href="about.asp">CONTACT</a></li>  
 				</ul>
-				<a href="http://emiratesgraphic.com/" style="text-decoration: none; color: white;"><p>Copyright By Emirates Graphic 2016</p></a>
+				<a href="http://emiratesgraphic.com/" style="text-decoration: none; color: white;"><p>Copyright By Emirates Graphic 2017</p></a>
         	</div>
         	<div class="col-md-6 solial_media_footer">
                 <h5 class="mobile-d-n">CONTACT</h5>

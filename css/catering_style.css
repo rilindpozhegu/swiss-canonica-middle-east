@@ -82,7 +82,7 @@
 }
 
 .third_food_inn {
-	background-image: url('../img/inner_bg/food_in_3-01.png');
+	background-image: url('../img/inner_bg/food_in_5-01.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -92,7 +92,7 @@
 	text-align: left;
  	background-attachment: fixed;	
 }
-
+/*
 .forth_food_inn {
 	background-image: url('../img/inner_bg/food_in_4-01.png');
 	background-size: cover;
@@ -127,4 +127,4 @@
 	color: white;
 	text-align: left;
  	background-attachment: fixed;	
-}
+}*/

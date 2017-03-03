@@ -55,7 +55,7 @@
                 </div>
 
                 <div class="col-md-12">
-                    <button class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">Submit <i class="fa fa-angle-rigt"></i></button>
+                    <button class="wow fadeInUp hover_propperty" data-wow-duration="1s" data-wow-delay=".8s">Submit <i class="fa fa-angle-rigt"></i></button>
                 </div>
                 </div>
                 <div class="col-md-1"></div>

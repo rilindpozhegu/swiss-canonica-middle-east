@@ -27,14 +27,8 @@
 	color: #CCCCCC;
 }
 .cover_home_page button {
-	color: white;
-	font-family: 'Montserrat-Bold';
-	background-color: #CC0241;
 	width: 150px;
 	height: 35px;
-	border-radius: 4px;
-	border: none;
-	font-size: 12px;
 	margin-top: 20px;
 }
 
@@ -62,14 +56,8 @@ First Section Home PAge Middle
 }
 
 .first_section_logo_text button {  
-  color: white;
-  font-family: 'Montserrat-Bold';
-  background-color: #CC0241;
   width: 150px;
   height: 35px;
-  border-radius: 4px;
-  border: none;
-  font-size: 12px;
   margin-top: 20px;
 }
 
@@ -111,15 +99,9 @@ Second Section Homepage
   font-size: 16px;
 }
 .iner_text_panel_home button {
-  color: white;
-  font-family: 'Montserrat-Bold';
-  background-color: #CC0241;
   width: 150px;
   height: 35px;
-  border-radius: 4px;
-  border: none;
-  font-size: 12px;
-  margin-top: 20px;  
+  margin-top: 20px;
 }
 
 
@@ -218,13 +200,19 @@ Testimonial Section
 .partners_homepage h1 {
   color: #CC0241;
   font-family: 'Montserrat-Bold';
-  font-size: 40px;
+  font-size: 40px; 
 }
 
 .partners_homepage p {
   font-size: 19px;
   color: #272F34;
   letter-spacing: 2px;
+}
+.partners_homepage .no_space {
+  font-size: 19px;
+  color: #272F34;
+  letter-spacing: 1px;
+  padding-bottom: 20px;
 }
 
 .partners_homepage hr {
@@ -233,7 +221,7 @@ Testimonial Section
     border: 0;
     border-top: 3px solid #272F34;
     /*margin: 10px 13px;*/
-    padding: 0px 0px 30px;
+    padding: 0px 0px 10px;
     width: 20%;
 
 }

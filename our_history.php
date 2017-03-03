@@ -9,6 +9,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    <link rel="icon" href="img/preload_logo-01.png">
+
     <title>Swiss Canonica World</title>
 
     <!-- Bootstrap Core CSS -->
@@ -27,10 +29,11 @@
 <section class="cover_our_history_page">
     <div class="container">
         <div class="row">
-            <div class="col-md-12"><!-- 
-                <h1>WELCOME TO<br><span>SWISSCANONICA</span></h1>
-                <p>Founded in Geneva in 1948 by André Canonica,Canononica<br> is the company at the root of SWISSCANONICA Group,<br>active in the airport catering sector.</p>
-                <button>More <i class="fa fa-angle-right"></i></button> -->
+            <div class="col-md-12">
+                <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">OUR HISTORY</h1>
+                <hr class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">
+                <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Learn more about our history and our avtivities.</p>
+                <button  class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button>
             </div>
         </div>
     </div>
@@ -138,7 +141,7 @@
                 <div class="col-md-12 text_on_facts wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing</p>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing</p>
-                    <button>Activities</button>
+                    <button class="hover_propperty">Activities</button>
                 </div>
             </div>
         </div>

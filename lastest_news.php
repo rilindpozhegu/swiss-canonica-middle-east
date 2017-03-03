@@ -9,6 +9,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    <link rel="icon" href="img/preload_logo-01.png">
+
     <title>Swiss Canonica World</title>
 
     <!-- Bootstrap Core CSS -->
@@ -31,7 +33,7 @@
                 <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Latest News</h1>
                 <hr class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">
                 <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,<br>sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam <br>erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
-                <button  class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">More <i class="fa fa-angle-right"></i></button>
+                <button  class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".3s">More <i class="fa fa-angle-right"></i></button>
             </div>
         </div>
     </div>
@@ -43,14 +45,13 @@
 <section class="news_section_panels">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 news_panel_inside no_padding wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
+            <div class="col-md-12 news_panel_inside no_padding wow fadeInUp row" data-wow-duration="0.5s" data-wow-delay=".3s">
                 <div class="col-md-5 no_padding">
                     <img src="img/owl_img1-01.png">
                 </div>
                 <div class="col-md-7 only_text_panel">
-                    <h1>News Title</h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing </p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing </p>
+                    <h1>News</h1>
+                    <p>Read the latest news regarding Canonica and our partners. Learn what upcoming activities and conferences we are hosting.</p>
                     <a href="#"><div class="col-md-6 col-xs-6 read_more_ins no_padding">Read more <img src="img/hover_arrow-01.svg" class="arrow_hover"></div></a>
                     <div class="col-md-6 col-xs-6 solial_inside">
                         <i class="fa fa-facebook"></i>
@@ -61,14 +62,14 @@
             </div>
             <div class="clearfix"></div>
 
-            <div class="col-md-12 news_panel_inside no_padding wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
+            
+            <div class="col-md-12 news_panel_inside no_padding wow fadeInUp row" data-wow-duration="0.5s" data-wow-delay=".3s">
                 <div class="col-md-5 no_padding">
                     <img src="img/owl_img1-01.png">
                 </div>
                 <div class="col-md-7 only_text_panel">
-                    <h1>News Title</h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing </p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing </p>
+                    <h1>News</h1>
+                    <p>Read the latest news regarding Canonica and our partners. Learn what upcoming activities and conferences we are hosting.</p>
                     <a href="#"><div class="col-md-6 col-xs-6 read_more_ins no_padding">Read more <img src="img/hover_arrow-01.svg" class="arrow_hover"></div></a>
                     <div class="col-md-6 col-xs-6 solial_inside">
                         <i class="fa fa-facebook"></i>
@@ -77,16 +78,17 @@
                     </div>
                 </div>
             </div>
+
             <div class="clearfix"></div>
             
-            <div class="col-md-12 news_panel_inside no_padding wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
+            
+            <div class="col-md-12 news_panel_inside no_padding wow fadeInUp row" data-wow-duration="0.5s" data-wow-delay=".3s">
                 <div class="col-md-5 no_padding">
                     <img src="img/owl_img1-01.png">
                 </div>
                 <div class="col-md-7 only_text_panel">
-                    <h1>News Title</h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing </p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing </p>
+                    <h1>News</h1>
+                    <p>Read the latest news regarding Canonica and our partners. Learn what upcoming activities and conferences we are hosting.</p>
                     <a href="#"><div class="col-md-6 col-xs-6 read_more_ins no_padding">Read more <img src="img/hover_arrow-01.svg" class="arrow_hover"></div></a>
                     <div class="col-md-6 col-xs-6 solial_inside">
                         <i class="fa fa-facebook"></i>

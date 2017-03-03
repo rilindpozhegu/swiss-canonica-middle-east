@@ -1,4 +1,4 @@
-    <!-- Navigation -->
+      <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top wow fadeInDown" data-wow-duration="0.6s" data-wow-delay=".3s" role="navigation">
         <div class="container">
             <div class="navbar-header page-scroll">
@@ -19,7 +19,7 @@
                     <li class="hidden">
                         <a class="page-scroll" href="#page-top"></a>
                     </li>
-                    <li class="language_li">
+                   <!--  <li class="language_li">
                         <a class="language_en mobile-d-n" href="?lang=english">EN</a>
                     </li>
                     <li class="language_li">
@@ -27,7 +27,7 @@
                     </li>
                     <li class="language_li">
                         <a class="language_en mobile-d-n" href="?lang=english">DE</a>
-                    </li>
+                    </li> -->
                     <li class="toogle_bt_top">
                         <a class="cd-primary-nav-trigger mobile-d-n" href="#0">
                             <span class="cd-menu-text">MENU</span><span class="cd-menu-icon"></span>
@@ -57,13 +57,26 @@
                         <a class="#" href="lastest_news">LASTEST NEWS</a>
                     </li>
                     <li>
-                        <a class="#" href="career_with_swiss_canonica.php">CAREER</a>
+                        <a class="#" href="career_with_swiss_canonica">CAREER</a>
+                    </li>
+                    <li>
+                        <a class="#" href="catering">CATERING</a>
+                    </li>
+                    <li>
+                        <a class="#" href="consulting_page">F&B CONSULTING AND MANAGMENT</a>
+                    </li>
+                    <li>
+                        <a class="#" href="chocolate_page">CHOCOLATE</a>
                     </li>
 
                     </ul>
                 </nav>
 
-
+ <!--    <div id="overlay">
+        <img src="img/preload_logo-01.png" class="move_logo">
+        <br>
+        <img src="img/preload2-01.png" class="mobile-d-n" >
+    </div> -->
 
 
 <style type="text/css">

@@ -9,6 +9,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    <link rel="icon" href="img/preload_logo-01.png">
+    
     <title>Swiss Canonica World</title>
 
     <!-- Bootstrap Core CSS -->
@@ -28,10 +30,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Consulting</h1>
+                <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Food and Beverage Consulting and Management</h1>
                 <hr class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3">
-                <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,<br>sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam <br>erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
-                <button class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button>
+                <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">We offer a state-of-the-art, fully equipped test kitchen. Whether you are looking to develop dazzling recipes, to test a new menu.. </p>
+                <button class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button>
             </div>
         </div>
     </div>
@@ -44,9 +46,9 @@
     <div class="container-fluid">
             <div class="row first_consulting_inn">
                 <div class="col-md-6 ">
-                    <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Retail</h1>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero</p>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero</p>
+                    <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Test Food</h1>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">We offer a state-of-the-art, fully equipped test kitchen. Whether you are looking to develop dazzling recipes, to test a new menu, </p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">or even to take gorgeous pictures of your creations, [Canonica’s] kitchens provide the ideal environment.<br>&nbsp;<br>&nbsp;</p>
                 </div>
                 <div class="col-md-6 no_padding mobile-d-n">
                 </div>
@@ -57,9 +59,9 @@
                 <div class="col-md-6 no_padding mobile-d-n">
                 </div>
                 <div class="col-md-6 ">
-                    <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Production</h1>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero</p>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero</p>
+                    <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">F&B Consulting Services</h1>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Canonica delivers a wealth of knowledge and experience in order to provide restaurants with everything they need when it comes to management. </p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Our experts can assist you with pre and post-opening management in order to make your restaurant run smoothly and win over customers from the very start.<br>&nbsp;<br>&nbsp;</p>
                 </div>
             </div>
 

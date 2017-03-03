@@ -4,7 +4,7 @@
 
 /*--------------------------*/
 
-.cover_our_history_page {
+.cover_our_history_page { 
 	background-image: url('../img/background/our_history-01.png');
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -12,11 +12,21 @@
 	height: 760px;
 	padding-top: 200px;
 	color: white;
-	text-align: center;
+	text-align: left;
 	background-attachment: fixed;
 }
-/*.cover_our_history_page h1{
+.cover_our_history_page h1{
 	font-size: 67px;
+	font-family: 'Montserrat-Bold';
+}
+.cover_our_history_page hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 3px solid white;
+    margin: 1em 0;
+    padding: 0;
+    width: 20% !important;
 }
 .cover_our_history_page span {
 	color: #CC0241;
@@ -37,7 +47,7 @@
 	font-size: 12px;
 	margin-top: 20px;
 }
-*/
+
 
 /*first Section_our History*/
 
