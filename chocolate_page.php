@@ -47,10 +47,9 @@
 <section class="inerpages_section_home">
     <div class="container-fluid">
             <div class="row first_chocolate_inn">
-                <div class="col-md-6 ">
-                    <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Retail</h1>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero</p>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero</p>
+                <div class="col-md-6 "><br>&nbsp;
+                    <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Chocolate Retail</h1>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Experience the variety of delicious chocolates we provide at one of our stores. Just stop by to get the perfect assortment for any occasion – as a gift or a personal treat.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
                 </div>
                 <div class="col-md-6 no_padding mobile-d-n">
                 </div>
@@ -60,10 +59,10 @@
             <div class="row second_chocolate_inn">
                 <div class="col-md-6 no_padding mobile-d-n">
                 </div>
-                <div class="col-md-6 ">
+                <div class="col-md-6 "><br>&nbsp;
                     <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Canonica Chocolate</h1>
                     <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Canonica pairs Swiss chocolate-making tradition with vast experience in order to deliver a luxurious and rich chocolate that is second to none.</p>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s"> Our award-winning chocolatiers use only the finest ingredients in order to deliver a memorable and original flavor, enrobed creatively into delicate shapes.</p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s"> Our award-winning chocolatiers use only the finest ingredients in order to deliver a memorable and original flavor, enrobed creatively into delicate shapes.<br>&nbsp;<br>&nbsp;</p>
                 </div>
             </div>
 

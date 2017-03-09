@@ -153,8 +153,20 @@
     <div class="container">
         <div class="row">
             <h1 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Management Team</h1>
-            <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing</p>
-            <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing</p>
+            <div class="col-md-3">
+                <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Philippe Barrois <br> <span>Development Manager</span></h3>
+            </div>
+            <div class="col-md-9">
+                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">F&amp;B and Retail Airport Concessions Development Manager, is a graduate of the Ecole Hôtelière de Thonon and has 11 years of experience in project management in airline catering and airport food service. He is responsible for the commercial development of airport activities for the group. Simultaneously, Mr.Barrois is responsible for business development in the Middle East as well as for the supervision of the outlets of Canonica Restaurant &amp; Catering LLC.</p>
+            </div>
+            <div class="clearfix"></div>
+            <hr class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
+            <div class="col-md-3">
+                <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Philippe Barrois <br> <span>General Manager</span></h3>
+            </div>
+            <div class="col-md-9">
+                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">F&amp;B and Retail Airport Concessions Development Manager, is a graduate of the Ecole Hôtelière de Thonon and has 11 years of experience in project management in airline catering and airport food service. He is responsible for the commercial development of airport activities for the group. Simultaneously, Mr.Barrois is responsible for business development in the Middle East as well as for the supervision of the outlets of Canonica Restaurant &amp; Catering LLC.</p>
+            </div>
         </div>
     </div>
 </section>

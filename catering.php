@@ -48,7 +48,7 @@
                     <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Business</h1>
                     <!-- <h4 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">FEATURE MAIN DESCRIPTION</h4> -->
                     <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Canonica can provide your company with high quality food for lunches as well as events such as meetings or conferences – our selection is sure to satisfy any and every situation. </p>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Our delicious and gorgeous food will keep your workers well-fed and ready for business.<br>&nbsp;<br>&nbsp;</p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Our delicious and gorgeous food will keep your workers well-fed and ready for business.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
                 </div>
                 <div class="col-md-6 no_padding mobile-d-n">
                 </div>
@@ -72,7 +72,7 @@
                     <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Costum</h1>
                     <!-- <h4 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">FEATURE MAIN DESCRIPTION</h4> -->
                     <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Do you have a specific dish you would like made or an atypical request? Canonica can make custom meals and orders in order to satisfy any craving you might have. </p>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s"> Our team of chefs is trained and capable of flawlessly executing dishes from around the entire world.<br>&nbsp;<br>&nbsp;</p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s"> Our team of chefs is trained and capable of flawlessly executing dishes from around the entire world.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
                 </div>
                 <div class="col-md-6 no_padding mobile-d-n">
                 </div>

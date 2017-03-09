@@ -45,10 +45,10 @@
 <section class="inerpages_section_home">
     <div class="container-fluid">
             <div class="row first_consulting_inn">
-                <div class="col-md-6 ">
-                    <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Test Food</h1>
+                <div class="col-md-6 "><br>&nbsp;
+                    <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Test Kitchen</h1>
                     <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">We offer a state-of-the-art, fully equipped test kitchen. Whether you are looking to develop dazzling recipes, to test a new menu, </p>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">or even to take gorgeous pictures of your creations, [Canonica’s] kitchens provide the ideal environment.<br>&nbsp;<br>&nbsp;</p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">or even to take gorgeous pictures of your creations, [Canonica’s] kitchens provide the ideal environment.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
                 </div>
                 <div class="col-md-6 no_padding mobile-d-n">
                 </div>
@@ -58,10 +58,10 @@
             <div class="row second_consulting_inn">
                 <div class="col-md-6 no_padding mobile-d-n">
                 </div>
-                <div class="col-md-6 ">
+                <div class="col-md-6 "><br>&nbsp;
                     <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">F&B Consulting Services</h1>
                     <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Canonica delivers a wealth of knowledge and experience in order to provide restaurants with everything they need when it comes to management. </p>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Our experts can assist you with pre and post-opening management in order to make your restaurant run smoothly and win over customers from the very start.<br>&nbsp;<br>&nbsp;</p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Our experts can assist you with pre and post-opening management in order to make your restaurant run smoothly and win over customers from the very start.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
                 </div>
             </div>
 

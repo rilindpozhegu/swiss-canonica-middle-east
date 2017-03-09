@@ -4094,7 +4094,7 @@ Copyright (c) 2015 Daniel Eden
 /*--------------------------*/
 
 .cover_home_page {
-	background-image: url('../img/background/home_backgorund_cover-01.png');
+  background-image: url(../img/background/home_backgorund_cover-01.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -4791,6 +4791,13 @@ Responsive Part
       left: 35%;
     }
 }
+
+
+            #map {
+                width: 100%;
+                height: 800px; 
+                cursor: auto;
+            }
 /*--------------------------*/
 
 /*		Home Page Swiss     */
@@ -5189,6 +5196,18 @@ language Btn
   .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
     background-color: transparent !important;
   }
+
+
+
+  /*Drop Down Services*/
+  .drop_down_services {
+    width: 100%;
+    text-align: center;
+    background-color: rgb(44, 54, 60);
+    padding: 10px 0px;
+  }
+
+
 /*
 ///////////////////////////////////////////////////
 Responsive Part 

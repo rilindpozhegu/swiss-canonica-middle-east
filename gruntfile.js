@@ -34,6 +34,8 @@ module.exports = function(grunt) {
 					// Preloader 
 					'js/preloader.js',
 					// 'js/smoothscroll.js' // Smooth Scroll Script + time to Scroll,
+					// maps JS
+					'js/canonica_maps.js',
 
 					'js/wow.min.js'
 					],
