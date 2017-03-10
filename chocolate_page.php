@@ -35,7 +35,7 @@
                 <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Chocolate</h1>
                 <hr class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">
                 <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Canonica pairs Swiss chocolate-making tradition with vast experience in order to deliver a luxurious and rich chocolate that is second to none... </p>
-                <button class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button>
+                <a href="#chocolate_first_s"><button class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button></a>
             </div>
         </div>
     </div>
@@ -44,7 +44,7 @@
 
 <!-- Second Section Homepage -->
 
-<section class="inerpages_section_home">
+<section class="inerpages_section_home" id="chocolate_first_s">
     <div class="container-fluid">
             <div class="row first_chocolate_inn">
                 <div class="col-md-6 "><br>&nbsp;

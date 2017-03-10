@@ -33,7 +33,7 @@
                 <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Catering</h1>
                 <hr class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">
                 <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Canonica is always ready to offer the highest quality in catering – from<br> entire ready-made meals to sandwiches and salads.</p>
-                <button class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button>
+                <a href="#catering_first_s"><button class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button></a>
             </div>
         </div>
     </div>
@@ -41,7 +41,7 @@
 
 <!-- Second Section Homepage -->
 
-<section class="inerpages_section_home">
+<section class="inerpages_section_home" id="catering_first_s">
     <div class="container-fluid">
             <div class="row first_food_inn">
                 <div class="col-md-6 ">
@@ -72,7 +72,7 @@
                     <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Costum</h1>
                     <!-- <h4 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">FEATURE MAIN DESCRIPTION</h4> -->
                     <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Do you have a specific dish you would like made or an atypical request? Canonica can make custom meals and orders in order to satisfy any craving you might have. </p>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s"> Our team of chefs is trained and capable of flawlessly executing dishes from around the entire world.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s"> Our team of chefs is trained and capable of flawlessly executing dishes from around the entire world.<br>&nbsp;<br>&nbsp;</p>
                 </div>
                 <div class="col-md-6 no_padding mobile-d-n">
                 </div>

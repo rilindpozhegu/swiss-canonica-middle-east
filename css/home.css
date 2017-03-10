@@ -22,7 +22,7 @@
 	color: #CC0241;
 	font-family: 'Montserrat-Bold';
 }
-.cover_home_page p {
+.cover_home_page p { 
 	font-size: 20px;
 	color: #CCCCCC;
 }
@@ -214,7 +214,7 @@ Testimonial Section
   letter-spacing: 1px;
   padding-bottom: 20px;
 }
-
+ 
 .partners_homepage hr {
     display: block;
     height: 2px;
@@ -227,9 +227,28 @@ Testimonial Section
 }
 
 .partners_homepage img {
-  width: 90%;
+  width: 80%;
   padding: 20px;
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+  transition: ease-in-out all 0.3s;
 }
+.partners_homepage img:hover {  
+  -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(0%);
+  transition: ease-in-out all 0.3s;
+}
+.costumsuper img {
+  padding: 20px 70px 0px !important;
+} 
+.costumsuper {
+  text-align: center !important;
+}
+
+.costumsuper .owl-dots {
+  display: none;
+}
+
 /*
 ///////////////////////////////////////////////////
 Join Us Section Image And text 

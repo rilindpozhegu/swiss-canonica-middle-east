@@ -33,7 +33,7 @@
                 <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Food and Beverage Consulting and Management</h1>
                 <hr class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3">
                 <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">We offer a state-of-the-art, fully equipped test kitchen. Whether you are looking to develop dazzling recipes, to test a new menu.. </p>
-                <button class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button>
+                <a href="#consulting_first_s"><button class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button></a>
             </div>
         </div>
     </div>
@@ -42,7 +42,7 @@
 
 <!-- Second Section Homepage -->
 
-<section class="inerpages_section_home">
+<section class="inerpages_section_home" id="consulting_first_s">
     <div class="container-fluid">
             <div class="row first_consulting_inn">
                 <div class="col-md-6 "><br>&nbsp;

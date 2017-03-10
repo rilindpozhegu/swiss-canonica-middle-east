@@ -1,18 +1,15 @@
-<IfModule mod_rewrite.c>
 RewriteEngine on
+#this rule removes www from the URL if its used
+RewriteCond %{HTTP_HOST} ^www.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}.php -f
-RewriteRule ^(.*)$ $1.php
-#RewriteRule ^([a-z]+)\/?$ $1.php [NC]
+#this rule handles the subdomains
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteCond %{HTTP_HOST} ^([a-z0-9]+)\.(.*)$ [NC]
+RewriteRule ^(.*)$ index.php[L]
 
-
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}.html -f
-RewriteRule ^(.*)$ $1.html
-#RewriteRule ^([a-z]+)\/?$ $1.html [NC]
-
-#Fix Rewrite
-
-Options -Multiviews
-</IfModule>
+#this rule handles redirecting all addresses to index.php
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteRule ^(.*)$ index.php

@@ -16,24 +16,16 @@
 		</div>
     </section>
  -->
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBRgQGJ-kqg8JBKhlDTpgDt5s4dh-icad0&callback=initMap"
-  type="text/javascript"></script> <!--Add here the API CODE-->
+<!-- 
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUj5LS46YieeAanxjdyN5KRxhxPaNuWfM&callback=initMap"
+  type="text/javascript"></script> --> <!--Add here the API CODE-->
 
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+  <!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script> -->
+
+<!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUj5LS46YieeAanxjdyN5KRxhxPaNuWfM"></script> -->
 
     <div id="map"></div>
 
 
-<script type="text/javascript">
-	
-options = $.extend({
-    scrollwheel: false,
-    navigationControl: false,
-    mapTypeControl: false,
-    scaleControl: false,
-    draggable: false,
-    mapTypeId: google.maps.MapTypeId.ROADMAP
-}, options);
 
-  
-</script>
+

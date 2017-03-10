@@ -7,7 +7,7 @@
                            <span class="cd-menu-icon"></span>
                         </a>
                 </button>
-                <a href="index"><img src="img/logo/gray_red_logo-01.png"></a>
+                <a href="http://swisscanonica-uae.com/"><img src="img/logo/gray_red_logo-01.png"></a>
             </div><!-- 
             <div class="social_media_nav">
                 <i class="fa fa-facebook" aria-hidden="true"></i>
@@ -45,29 +45,29 @@
                 <nav>
                     <ul class="cd-primary-nav">
                     <li>
-                        <a class="#" href="index">HOME</a>
+                        <a class="#" href="http://swisscanonica-uae.com/">HOME</a>
                     </li>
                     <li class="dropdown">
                       <a href="" class=" dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         OUR SERVICES <i class="fa fa-angle-down" aria-hidden="true"></i>
                       </a>
                       <div class="dropdown-menu drop_down_services wow fadeInDown" data-wow-duration="0.5s" data-wow-delay=".2s" aria-labelledby="dropdownMenuButton">
-                        <a class="#" href="catering">CATERING</a><br>
-                        <a class="#" href="consulting_page">F&B CONSULTING AND MANAGMENT</a><br>
-                        <a class="#" href="chocolate_page">CHOCOLATE</a>
+                        <a class="#" href="catering.php">CATERING</a><br>
+                        <a class="#" href="consulting_page.php">F&B CONSULTING AND MANAGMENT</a><br>
+                        <a class="#" href="chocolate_page.php">CHOCOLATE</a>
                       </div>                      
                       </li>
                     <li>
-                        <a class="#" href="our_history">OUR HISTORY</a>
+                        <a class="#" href="our_history.php">OUR HISTORY</a>
                     </li>
                     <li>
-                        <a class="#" href="career_with_swiss_canonica">CAREER</a>
+                        <a class="#" href="career_with_swiss_canonica.php">CAREER</a>
                     </li>
                     <li>
-                        <a class="#" href="lastest_news">LASTEST NEWS</a>
+                        <a class="#" href="lastest_news.php">LASTEST NEWS</a>
                     </li>
                     <li>
-                        <a class="#" href="contact_page">CONTACT</a>
+                        <a class="#" href="contact_page.php">CONTACT</a>
                     </li>
 
                     </ul>

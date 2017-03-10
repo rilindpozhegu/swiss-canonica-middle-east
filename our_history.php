@@ -33,7 +33,7 @@
                 <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">OUR HISTORY</h1>
                 <hr class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">
                 <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Learn more about our history and our avtivities.</p>
-                <button  class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button>
+                <a href="#our_h_first_s"><button  class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button></a>
             </div>
         </div>
     </div>
@@ -41,7 +41,7 @@
 
 <!-- First Section on the Our History Page -->
 
-<section class="first_section_our_history_p">
+<section class="first_section_our_history_p" id="our_h_first_s">
     <div class="container">
         <div class="row">
         <hr class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".4s">
@@ -156,15 +156,15 @@
             <div class="col-md-3">
                 <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Philippe Barrois <br> <span>Development Manager</span></h3>
             </div>
-            <div class="col-md-9">
+            <div class="col-md-9 no_padding">
                 <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">F&amp;B and Retail Airport Concessions Development Manager, is a graduate of the Ecole Hôtelière de Thonon and has 11 years of experience in project management in airline catering and airport food service. He is responsible for the commercial development of airport activities for the group. Simultaneously, Mr.Barrois is responsible for business development in the Middle East as well as for the supervision of the outlets of Canonica Restaurant &amp; Catering LLC.</p>
             </div>
             <div class="clearfix"></div>
             <hr class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
             <div class="col-md-3">
-                <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Philippe Barrois <br> <span>General Manager</span></h3>
+                <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Lamine Ounnas <br> <span>General Manager</span></h3>
             </div>
-            <div class="col-md-9">
+            <div class="col-md-9 no_padding">
                 <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">F&amp;B and Retail Airport Concessions Development Manager, is a graduate of the Ecole Hôtelière de Thonon and has 11 years of experience in project management in airline catering and airport food service. He is responsible for the commercial development of airport activities for the group. Simultaneously, Mr.Barrois is responsible for business development in the Middle East as well as for the supervision of the outlets of Canonica Restaurant &amp; Catering LLC.</p>
             </div>
         </div>

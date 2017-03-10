@@ -33,7 +33,7 @@
                 <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Latest News</h1>
                 <hr class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">
                 <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,<br>sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam <br>erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
-                <button  class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".3s">More <i class="fa fa-angle-right"></i></button>
+                <a href="#news_h_first_s"><button  class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button></a>
             </div>
         </div>
     </div>
@@ -42,7 +42,7 @@
 
 <!-- NEWSES SECTION -->
 
-<section class="news_section_panels">
+<section class="news_section_panels" id="news_h_first_s">
     <div class="container">
         <div class="row">
             <div class="col-md-12 news_panel_inside no_padding wow fadeInUp row" data-wow-duration="0.5s" data-wow-delay=".3s">

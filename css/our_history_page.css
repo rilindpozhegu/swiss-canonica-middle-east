@@ -153,7 +153,18 @@
 
 .third_section_our_history h1{
 	font-family: 'Montserrat-Bold';
-	text-align: center;color: white;
-    font-size: 30px;
-    padding-bottom: 20px;
+	text-align: center;color: rgba(255, 255, 255, 0.86);
+    font-size: 35px;
+    padding-bottom: 40px;
+}
+
+.third_section_our_history h3 {
+	font-family: 'Montserrat-Bold';
+	margin-top: 5px;
+	text-align: center;
+}
+
+.third_section_our_history span {
+	font-family: 'Montserrat-UltraLight';
+	font-size: 14px;
 }

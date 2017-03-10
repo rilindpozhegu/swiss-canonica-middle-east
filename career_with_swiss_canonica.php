@@ -33,7 +33,7 @@
                 <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Career with Swiss Canonica</h1>
                 <hr class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">
                 <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Looking to join our staff? We are always looking for talented individuals who like a challenge. Canonica is the perfect place to grow professionally and a fulfillment beyond just work. You can use our portal to search for job openings and apply directly online.  </p>
-                <button class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button>
+                <a href="#career_h_first_s"><button  class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button></a>
             </div>
         </div>
     </div>
@@ -41,7 +41,7 @@
 
 
 <!-- Fist Section career page -->
-<section class="career_first_section_a">
+<section class="career_first_section_a" id="career_h_first_s">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -54,7 +54,7 @@
                 <p class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".6s">The spirit of founder André Canonica has remained central throughout the group’s development initiatives. The group aspires to solid, controlled growth – an idea that is reinforced by the importance it places on quality, respect and tradition.</p>
                 <p class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".5s">Human resources, sustainable development and quality control are absolutely essential to our vision and are approached as strategic sectors.</p>
                 <p class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".4s">Respect for our staff and their personal development are of utmost importance to us, meaning that special attention has always been paid to working conditions.</p>
-                <button class="wow fadeInRight hover_propperty" data-wow-duration="1s" data-wow-delay=".3s">More <i class="fa fa-angle-right"></i></button>
+                <a href="#more_career"><button class="wow fadeInRight hover_propperty" data-wow-duration="1s" data-wow-delay=".3s">More <i class="fa fa-angle-right"></i></button></a>
             </div>
         </div>
     </div>
@@ -62,7 +62,7 @@
 
 <!-- Career Small panels with shadow -->
 
-<section class="career_last_sadow_panel">
+<section class="career_last_sadow_panel" id="more_career">
     <div class="container">
         <div class="row">
             <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Latest Job Offers</h1>
