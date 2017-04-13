@@ -47,8 +47,8 @@
             <div class="row first_consulting_inn">
                 <div class="col-md-6 "><br>&nbsp;
                     <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Test Kitchen</h1>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">We offer a state-of-the-art, fully equipped test kitchen. Whether you are looking to develop dazzling recipes, to test a new menu, </p>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">or even to take gorgeous pictures of your creations, [Canonica’s] kitchens provide the ideal environment.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">We offer a state-of-the-art, fully equipped test kitchen. Furnished with modern, practical equipment, our test kitchens are available for rent on an hourly or daily basis. Canonica provides the environment you need in order to develop all new, dazzling recipes for a restaurant or to test an already developed menu before rolling it out officially. </p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">The kitchens are also available for tastings, team-building activities for your business, and for photography sessions where you can take the perfect images of your creations for a website, social media pages, or a printed menu.</p>
                 </div>
                 <div class="col-md-6 no_padding mobile-d-n">
                 </div>
@@ -59,9 +59,9 @@
                 <div class="col-md-6 no_padding mobile-d-n">
                 </div>
                 <div class="col-md-6 "><br>&nbsp;
-                    <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">F&B Consulting Services</h1>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Canonica delivers a wealth of knowledge and experience in order to provide restaurants with everything they need when it comes to management. </p>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Our experts can assist you with pre and post-opening management in order to make your restaurant run smoothly and win over customers from the very start.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+                    <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Food & Beverage Consulting Services</h1>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Canonica delivers a wealth of knowledge and experience in order to provide everything that is necessary when it comes to management in the food and beverage industry. We provide consulting services in the pre- and post-opening stages, making sure that our clients are prepared for success.  </p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">We deliver solutions in all areas, making sure that your marketing is solid, your operations smooth, and your talent capable of taking on the restaurant’s needs. Our team of experts brings decades of experience in order to ensure meticulous preparation followed by flawless execution.<br>&nbsp;</p>
                 </div>
             </div>
 

@@ -32,7 +32,7 @@
             <div class="col-md-12">
                 <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Catering</h1>
                 <hr class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">
-                <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Canonica is always ready to offer the highest quality in catering – from<br> entire ready-made meals to sandwiches and salads.</p>
+                <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Canonica is always ready to offer the highest quality in catering in the Middle-East – from entire ready-made meals to simple sandwiches and salads. Our chefs craft all Canonica food from the highest quality ingredients, bringing their years of expertise straight into your business or to your event.</p>
                 <a href="#catering_first_s"><button class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button></a>
             </div>
         </div>
@@ -47,8 +47,8 @@
                 <div class="col-md-6 ">
                     <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Business</h1>
                     <!-- <h4 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">FEATURE MAIN DESCRIPTION</h4> -->
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Canonica can provide your company with high quality food for lunches as well as events such as meetings or conferences – our selection is sure to satisfy any and every situation. </p>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Our delicious and gorgeous food will keep your workers well-fed and ready for business.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">When there’s work to be done and deals to be made, make sure that your staff is well-fed, energetic, and ready to take on challenges. Canonica is a leading corporate catering company in the Middle-East and can provide your company with high quality food for lunches as well as events such as meetings or conferences. Our selection is sure to satisfy any and every situation. </p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">We offer a wide array of options and varieties from our own menu and can make meals to your own specifications. Instead of having all your employees rush out for lunch, let them eat together, building stronger teams and bonding over lunch.</p>
                 </div>
                 <div class="col-md-6 no_padding mobile-d-n">
                 </div>
@@ -59,20 +59,20 @@
                 <div class="col-md-6 no_padding mobile-d-n">
                 </div>
                 <div class="col-md-6 ">
-                    <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">School</h1>
+                    <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">School catering</h1>
                     <!-- <h4 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">FEATURE MAIN DESCRIPTION</h4> -->
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Canonica’s food is perfect for a school’s lunch menu. By providing delicious as well as varied and highly nutritious options, we ensure that schoolchildren </p>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s"> get a balanced and healthy diet and are ready to work but also play every single day.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Food fuels the brain, and so for students that need to be energized and strong during the day, Canonica is the perfect solution. We provide contract catering and support services in the educational sector in the Middle-East. Our chefs use a wide variety of ingredients to create delicious dishes and nsure that schoolchildren get a balanced diet. </p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s"> Our menus are developed to keep children active and performing well in the classroom. To top it off, these habits of healthy eating acquired at school will be kept for life and create healthier adults.<br>&nbsp;</p>
                 </div>
             </div>
 
 
             <div class="row third_food_inn">
                 <div class="col-md-6 ">
-                    <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Costum</h1>
+                    <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Custom Catering</h1>
                     <!-- <h4 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">FEATURE MAIN DESCRIPTION</h4> -->
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Do you have a specific dish you would like made or an atypical request? Canonica can make custom meals and orders in order to satisfy any craving you might have. </p>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s"> Our team of chefs is trained and capable of flawlessly executing dishes from around the entire world.<br>&nbsp;<br>&nbsp;</p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Do you have a specific dish you would like made or an atypical request? Canonica catering can make custom meals and orders in order to satisfy any craving you might have. From a small company gathering to a massive wedding banquet, we can ensure that the food at the event is memorable and delicious. </p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s"> Our team of chefs is trained and capable of flawlessly executing dishes from around the entire world. Let us work together with you to make your personality and style come to life through your food.<br>&nbsp;</p>
                 </div>
                 <div class="col-md-6 no_padding mobile-d-n">
                 </div>

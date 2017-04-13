@@ -32,7 +32,7 @@
             <div class="col-md-12">
                 <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Latest News</h1>
                 <hr class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">
-                <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,<br>sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam <br>erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
+                <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Read the latest news regarding Canonica and our partners. Learn what upcoming activities and conferences we are hosting. </p>
                 <a href="#news_h_first_s"><button  class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button></a>
             </div>
         </div>
@@ -51,7 +51,7 @@
                 </div>
                 <div class="col-md-7 only_text_panel">
                     <h1>News</h1>
-                    <p>Read the latest news regarding Canonica and our partners. Learn what upcoming activities and conferences we are hosting.</p>
+                    <p>Read the latest news regarding SWISSCANONICA and our partners. Learn what upcoming activities and events are on their ways.</p>
                     <a href="#"><div class="col-md-6 col-xs-6 read_more_ins no_padding">Read more <img src="img/hover_arrow-01.svg" class="arrow_hover"></div></a>
                     <div class="col-md-6 col-xs-6 solial_inside">
                         <i class="fa fa-facebook"></i>

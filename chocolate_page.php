@@ -34,7 +34,7 @@
             <div class="col-md-12">
                 <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Chocolate</h1>
                 <hr class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">
-                <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Canonica pairs Swiss chocolate-making tradition with vast experience in order to deliver a luxurious and rich chocolate that is second to none... </p>
+                <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Canonica pairs Swiss chocolate-making tradition with vast experience in order to deliver a luxurious and rich chocolate that is second to none. Our award-winning chocolatiers use only the finest ingredients in order to create a memorable and original flavor, enrobed creatively into delicate shapes. </p>
                 <a href="#chocolate_first_s"><button class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button></a>
             </div>
         </div>
@@ -49,7 +49,8 @@
             <div class="row first_chocolate_inn">
                 <div class="col-md-6 "><br>&nbsp;
                     <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Chocolate Retail</h1>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Experience the variety of delicious chocolates we provide at one of our stores. Just stop by to get the perfect assortment for any occasion – as a gift or a personal treat.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Experience the variety of delicious chocolates we provide at one of our stores. Just stop by to get the perfect assortment for any occasion – as a gift or a personal treat. </p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Our chocolates are freshly-made and packaged beautifully in order to combine a rich flavor with delicate aesthetics and leave you with a memorable experience. </p><br>&nbsp;
                 </div>
                 <div class="col-md-6 no_padding mobile-d-n">
                 </div>
@@ -61,8 +62,7 @@
                 </div>
                 <div class="col-md-6 "><br>&nbsp;
                     <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Canonica Chocolate</h1>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Canonica pairs Swiss chocolate-making tradition with vast experience in order to deliver a luxurious and rich chocolate that is second to none.</p>
-                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s"> Our award-winning chocolatiers use only the finest ingredients in order to deliver a memorable and original flavor, enrobed creatively into delicate shapes.<br>&nbsp;<br>&nbsp;</p>
+                    <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Canonica chocolate is first developed in the Geneva-based laboratory, using African and South American beans and Swiss craftsmanship, for a creative and delightful fusion of flavors that has won first prize in the Geneva international chocolatiers fair.<br>&nbsp;<br>&nbsp;</p>
                 </div>
             </div>
 

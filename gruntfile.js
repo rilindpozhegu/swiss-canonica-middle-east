@@ -24,8 +24,8 @@ module.exports = function(grunt) {
 					// -------------------// 
 
 					// Animation.css Scripts after scroll
-					'js/wow.min.js',
-					'js/animate.js',
+					// 'js/wow.min.js',
+					// 'js/animate.js',
 					// --------------------------------// 
 
 					// Script of Navigationbar POPUP.
@@ -36,8 +36,7 @@ module.exports = function(grunt) {
 					'js/smoothscroll.js', // Smooth Scroll Script + time to Scroll,
 
 					// maps JS
-					'js/google_maps_scrit.js',
-					'js/canonica_maps.js',
+					// 'js/canonica_maps.js',
 
 					'js/wow.min.js'
 					],

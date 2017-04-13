@@ -9,6 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    <link rel="icon" href="img/preload_logo-01.png">
     <title>Swiss Canonica World</title>
 
     <!-- Bootstrap Core CSS -->

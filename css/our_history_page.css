@@ -86,7 +86,10 @@
 	color: white;
 	background-attachment: fixed;
 }
-
+.second_section_our_history_p h1 {
+	font-family: 'Montserrat-Bold';
+	text-align: center;
+}
 .second_section_our_history_p h3 {
 	font-family: 'Montserrat-Bold';
 }

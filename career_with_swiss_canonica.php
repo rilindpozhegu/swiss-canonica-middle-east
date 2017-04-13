@@ -32,7 +32,7 @@
             <div class="col-md-12">
                 <h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">Career with Swiss Canonica</h1>
                 <hr class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">
-                <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Looking to join our staff? We are always looking for talented individuals who like a challenge. Canonica is the perfect place to grow professionally and a fulfillment beyond just work. You can use our portal to search for job openings and apply directly online.  </p>
+                <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Looking to join our staff? We are always searching for talented individuals who like a challenge. Canonica is the perfect place to grow professionally and find fulfillment beyond just work. You can use our portal to search for job openings and apply directly online.</p>
                 <a href="#career_h_first_s"><button  class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">More <i class="fa fa-angle-right"></i></button></a>
             </div>
         </div>
@@ -99,6 +99,9 @@
                     <hr>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
                 </div>
+            </div>
+            <div class="col-md-12">                
+                <a href="contact_page.php"><button  class="wow fadeInUp hover_propperty" data-wow-duration="1s" data-wow-delay=".5s">CONTACT HR <i class="fa fa-angle-right"></i></button></a>
             </div>
         </div>
     </div>

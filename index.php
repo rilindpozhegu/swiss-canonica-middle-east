@@ -31,7 +31,7 @@
         <div class="row">
             <div class="col-md-12">
                 <h1 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".2s">WELCOME TO<br><span>SWISSCANONICA UAE</span></h1>
-                <p class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">Founded in Geneva in 1948 by André Canonica,Canononica<br> is the company at the root of SWISSCANONICA Group,<br>active in the airport catering sector.</p>
+                <p class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">Settled in Dubai since 2014, SWISSCANONICA UAE is part of the SWISSCANONICA Group.<br>The company,a family run business, is active in the airport catering and retail sectors but<br>also in the chocolate manufacturing and the F&B consulting.</p>
                 <a href="our_history.php"><button  class="wow fadeInUp hover_propperty" data-wow-duration="1s" data-wow-delay=".2s">More <i class="fa fa-angle-right"></i></button></a>
             </div>
         </div>
@@ -44,11 +44,12 @@
 <section class="first_section_logo_text">
     <div class="container">
         <div class="row">
-            <img src="img/logo/black_red_logo-01-01.png"  class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".2s">
+            <img src="img/logo/black_red_logo-01-01.png"  class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".2s"><!-- 
             <p>Founded in Geneva in 1948 by André Canonica, Canononica is the company at the root of SWISSCANONICA Group, active in the airport catering sector.</p>
             <p>The quality of its service has resulted in the company managing numerous points of sale at Geneva airport. In 2013, the company extended its core business to Basel airport.</p>
             <p>Canonica quickly undertook in-flight catering activities for airliners (1952) before completing its services with high-end catering for the private aviation sector.</p>
-            <p>In 2002, Vincent Canonica, founder’s son, took over the family business with the objective of extending its business lines beyond the Swiss borders and diversifying its activities. Thus, in 2008, SWISSCANONICA extended its successful catering business to Paris Le Bourget first and to Nice and Cannes airports in a second phase.</p>
+            <p>In 2002, Vincent Canonica, founder’s son, took over the family business with the objective of extending its business lines beyond the Swiss borders and diversifying its activities. Thus, in 2008, SWISSCANONICA extended its successful catering business to Paris Le Bourget first and to Nice and Cannes airports in a second phase.</p> -->
+            <p>Settled in Dubai since 2014, SWISSCANONICA UAE is part of the SWISSCANONICA Group, founded in Geneva – Switzerland- in 1948 by Mr. André CANONICA. The company, a family run business, is active in the airport catering and retail sectors but also in the chocolate manufacturing and the Food &Beverage consulting.</p>
                 <a href="our_history.php"><button  class="wow fadeInUp hover_propperty" data-wow-duration="1s" data-wow-delay=".2s">More <i class="fa fa-angle-right"></i></button></a>
         </div>
     </div>
@@ -57,7 +58,7 @@
 
 <!-- Second Section Homepage -->
 
-<section class="inerpages_section_home">
+<section class="inerpages_section_home" id="services_id_h">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12 no_padding">
@@ -99,6 +100,7 @@
                     <hr class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
                     <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">Canonica pairs Swiss chocolate-making tradition with vast experience in order to deliver a luxurious and rich chocolate that is second to none...</p>
                     <a href="chocolate_page.php"><button  class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".6s">More <i class="fa fa-angle-right"></i></button></a>
+                    <a href="#"><button  class="wow fadeInLeft hover_propperty" data-wow-duration="1s" data-wow-delay=".6s">Visit our Website <i class="fa fa-angle-right"></i></button></a>
                 </div>
                 <div class="col-md-6 no_padding mobile-d-n">
                     <img src="img/home_iner3-01.png">
@@ -283,6 +285,7 @@
     <script>
         new WOW().init();
     </script>
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAQ8EpNxmJ18ovbmB4o82VMeE7mWAJf0TA&callback=initMap" async defer></script> -->
 </body>
 
 </html>

@@ -89,6 +89,14 @@
 	padding: 50px 10px;
 }
 
+.career_last_sadow_panel .col-md-12 {
+	text-align: center;
+	margin-top: 20px;
+}
+.career_last_sadow_panel button {
+	height: 35px;
+	width: 150px;
+}
 .career_small_pan {
 	/*border: solid 1px black;*/
 	margin-top: 20px;

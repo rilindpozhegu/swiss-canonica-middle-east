@@ -2,9 +2,9 @@
         <div class="container">
         	<div class="col-md-6 mobile-d-n">
         		<ul class="footer_navigation_list mobile-d-n">
-				  <li><a href="default.asp">SITE MAP</a></li>
-				  <li><a href="news.asp">LEGAL CONDITIONS</a></li>
-				  <li><a href="about.asp">CONTACT</a></li>  
+				  <li><a href="career_with_swiss_canonica.php">CAREER</a></li> 
+				  <li><a href="lastest_news.php">LASTEST NEWS</a></li>
+				  <li><a href="contact_page.php">CONTACT</a></li>  
 				</ul>
 				<a href="http://emiratesgraphic.com/" style="text-decoration: none; color: white;"><p>Copyright By Emirates Graphic 2017</p></a>
         	</div>

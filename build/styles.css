@@ -3662,6 +3662,14 @@ Copyright (c) 2015 Daniel Eden
 	padding: 50px 10px;
 }
 
+.career_last_sadow_panel .col-md-12 {
+	text-align: center;
+	margin-top: 20px;
+}
+.career_last_sadow_panel button {
+	height: 35px;
+	width: 150px;
+}
 .career_small_pan {
 	/*border: solid 1px black;*/
 	margin-top: 20px;
@@ -4905,7 +4913,10 @@ Responsive Part
 	color: white;
 	background-attachment: fixed;
 }
-
+.second_section_our_history_p h1 {
+	font-family: 'Montserrat-Bold';
+	text-align: center;
+}
 .second_section_our_history_p h3 {
 	font-family: 'Montserrat-Bold';
 }
